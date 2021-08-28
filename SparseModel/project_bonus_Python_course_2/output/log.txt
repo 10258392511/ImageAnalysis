@@ -1,0 +1,200 @@
+current: k = 1/50
+DCT dictionary:  Residual error 1.92, Average cardinality 4.18
+RED: Fixed-Point Iter 01, PSNR 29.474
+
+current: k = 2/50
+DCT dictionary:  Residual error 1.20, Average cardinality 3.05
+RED: Fixed-Point Iter 02, PSNR 29.942
+
+current: k = 3/50
+DCT dictionary:  Residual error 1.18, Average cardinality 3.13
+RED: Fixed-Point Iter 03, PSNR 30.210
+
+current: k = 4/50
+DCT dictionary:  Residual error 1.19, Average cardinality 3.20
+RED: Fixed-Point Iter 04, PSNR 30.404
+
+current: k = 5/50
+DCT dictionary:  Residual error 1.20, Average cardinality 3.24
+RED: Fixed-Point Iter 05, PSNR 30.557
+
+current: k = 6/50
+DCT dictionary:  Residual error 1.19, Average cardinality 3.28
+RED: Fixed-Point Iter 06, PSNR 30.685
+
+current: k = 7/50
+DCT dictionary:  Residual error 1.19, Average cardinality 3.30
+RED: Fixed-Point Iter 07, PSNR 30.795
+
+current: k = 8/50
+DCT dictionary:  Residual error 1.18, Average cardinality 3.32
+RED: Fixed-Point Iter 08, PSNR 30.891
+
+current: k = 9/50
+DCT dictionary:  Residual error 1.18, Average cardinality 3.34
+RED: Fixed-Point Iter 09, PSNR 30.977
+
+current: k = 10/50
+DCT dictionary:  Residual error 1.17, Average cardinality 3.35
+RED: Fixed-Point Iter 10, PSNR 31.055
+
+current: k = 11/50
+DCT dictionary:  Residual error 1.17, Average cardinality 3.36
+RED: Fixed-Point Iter 11, PSNR 31.126
+
+current: k = 12/50
+DCT dictionary:  Residual error 1.17, Average cardinality 3.37
+RED: Fixed-Point Iter 12, PSNR 31.191
+
+current: k = 13/50
+DCT dictionary:  Residual error 1.16, Average cardinality 3.38
+RED: Fixed-Point Iter 13, PSNR 31.250
+
+current: k = 14/50
+DCT dictionary:  Residual error 1.16, Average cardinality 3.39
+RED: Fixed-Point Iter 14, PSNR 31.305
+
+current: k = 15/50
+DCT dictionary:  Residual error 1.16, Average cardinality 3.40
+RED: Fixed-Point Iter 15, PSNR 31.356
+
+current: k = 16/50
+DCT dictionary:  Residual error 1.15, Average cardinality 3.40
+RED: Fixed-Point Iter 16, PSNR 31.403
+
+current: k = 17/50
+DCT dictionary:  Residual error 1.15, Average cardinality 3.41
+RED: Fixed-Point Iter 17, PSNR 31.446
+
+current: k = 18/50
+DCT dictionary:  Residual error 1.15, Average cardinality 3.41
+RED: Fixed-Point Iter 18, PSNR 31.487
+
+current: k = 19/50
+DCT dictionary:  Residual error 1.14, Average cardinality 3.42
+RED: Fixed-Point Iter 19, PSNR 31.526
+
+current: k = 20/50
+DCT dictionary:  Residual error 1.14, Average cardinality 3.42
+RED: Fixed-Point Iter 20, PSNR 31.561
+
+current: k = 21/50
+DCT dictionary:  Residual error 1.14, Average cardinality 3.43
+RED: Fixed-Point Iter 21, PSNR 31.595
+
+current: k = 22/50
+DCT dictionary:  Residual error 1.14, Average cardinality 3.43
+RED: Fixed-Point Iter 22, PSNR 31.626
+
+current: k = 23/50
+DCT dictionary:  Residual error 1.14, Average cardinality 3.44
+RED: Fixed-Point Iter 23, PSNR 31.656
+
+current: k = 24/50
+DCT dictionary:  Residual error 1.14, Average cardinality 3.45
+RED: Fixed-Point Iter 24, PSNR 31.684
+
+current: k = 25/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.45
+RED: Fixed-Point Iter 25, PSNR 31.710
+
+current: k = 26/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.45
+RED: Fixed-Point Iter 26, PSNR 31.734
+
+current: k = 27/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.46
+RED: Fixed-Point Iter 27, PSNR 31.758
+
+current: k = 28/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.46
+RED: Fixed-Point Iter 28, PSNR 31.780
+
+current: k = 29/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.47
+RED: Fixed-Point Iter 29, PSNR 31.801
+
+current: k = 30/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.47
+RED: Fixed-Point Iter 30, PSNR 31.820
+
+current: k = 31/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.47
+RED: Fixed-Point Iter 31, PSNR 31.838
+
+current: k = 32/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.47
+RED: Fixed-Point Iter 32, PSNR 31.855
+
+current: k = 33/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.48
+RED: Fixed-Point Iter 33, PSNR 31.871
+
+current: k = 34/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.48
+RED: Fixed-Point Iter 34, PSNR 31.887
+
+current: k = 35/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.48
+RED: Fixed-Point Iter 35, PSNR 31.901
+
+current: k = 36/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.49
+RED: Fixed-Point Iter 36, PSNR 31.915
+
+current: k = 37/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.49
+RED: Fixed-Point Iter 37, PSNR 31.927
+
+current: k = 38/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.49
+RED: Fixed-Point Iter 38, PSNR 31.940
+
+current: k = 39/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.49
+RED: Fixed-Point Iter 39, PSNR 31.952
+
+current: k = 40/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.49
+RED: Fixed-Point Iter 40, PSNR 31.963
+
+current: k = 41/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.50
+RED: Fixed-Point Iter 41, PSNR 31.973
+
+current: k = 42/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.50
+RED: Fixed-Point Iter 42, PSNR 31.983
+
+current: k = 43/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.50
+RED: Fixed-Point Iter 43, PSNR 31.993
+
+current: k = 44/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.50
+RED: Fixed-Point Iter 44, PSNR 32.002
+
+current: k = 45/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.50
+RED: Fixed-Point Iter 45, PSNR 32.010
+
+current: k = 46/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.50
+RED: Fixed-Point Iter 46, PSNR 32.018
+
+current: k = 47/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.50
+RED: Fixed-Point Iter 47, PSNR 32.026
+
+current: k = 48/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.51
+RED: Fixed-Point Iter 48, PSNR 32.033
+
+current: k = 49/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.51
+RED: Fixed-Point Iter 49, PSNR 32.040
+
+current: k = 50/50
+DCT dictionary:  Residual error 1.13, Average cardinality 3.51
+RED: Fixed-Point Iter 50, PSNR 32.046
+

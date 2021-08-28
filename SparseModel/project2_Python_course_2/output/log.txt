@@ -1,0 +1,102 @@
+PSNR of the noisy image is 22.118
+
+
+
+DCT dictionary:  Residual error 415.83, Average cardinality 6.07
+DCT dictionary: PSNR 30.161
+
+
+
+Iter  0: 
+Residual error 415.83, Average cardinality 6.07
+Iter  1: 
+Residual error 415.56, Average cardinality 5.92
+Iter  2: 
+Residual error 415.36, Average cardinality 5.83
+Iter  3: 
+Residual error 415.24, Average cardinality 5.78
+Iter  4: 
+Residual error 415.17, Average cardinality 5.74
+Iter  5: 
+Residual error 415.14, Average cardinality 5.71
+Iter  6: 
+Residual error 415.16, Average cardinality 5.68
+Iter  7: 
+Residual error 415.10, Average cardinality 5.66
+Iter  8: 
+Residual error 415.08, Average cardinality 5.64
+Iter  9: 
+Residual error 415.04, Average cardinality 5.63
+Iter 10: 
+Residual error 415.03, Average cardinality 5.61
+Iter 11: 
+Residual error 415.02, Average cardinality 5.60
+Iter 12: 
+Residual error 414.99, Average cardinality 5.58
+Iter 13: 
+Residual error 414.98, Average cardinality 5.57
+Iter 14: 
+Residual error 414.98, Average cardinality 5.56
+Iter 15: 
+Residual error 414.94, Average cardinality 5.55
+Iter 16: 
+Residual error 414.91, Average cardinality 5.55
+Iter 17: 
+Residual error 414.90, Average cardinality 5.54
+Iter 18: 
+Residual error 414.90, Average cardinality 5.54
+Iter 19: 
+Residual error 414.87, Average cardinality 5.53
+
+
+Unitary dictionary: 
+Residual error 414.85, Average cardinality 5.53
+Unitary dictionary: PSNR 30.540
+
+
+
+Iter  0: 
+Residual error 497.44, Average cardinality 8.35
+Iter  1: 
+Residual error 497.24, Average cardinality 8.33
+Iter  2: 
+Residual error 497.20, Average cardinality 8.32
+Iter  3: 
+Residual error 497.16, Average cardinality 8.31
+Iter  4: 
+Residual error 497.12, Average cardinality 8.31
+Iter  5: 
+Residual error 497.13, Average cardinality 8.31
+Iter  6: 
+Residual error 497.09, Average cardinality 8.30
+Iter  7: 
+Residual error 497.05, Average cardinality 8.30
+Iter  8: 
+Residual error 497.05, Average cardinality 8.30
+Iter  9: 
+Residual error 497.02, Average cardinality 8.30
+Iter 10: 
+Residual error 497.00, Average cardinality 8.30
+Iter 11: 
+Residual error 496.98, Average cardinality 8.30
+Iter 12: 
+Residual error 496.98, Average cardinality 8.30
+Iter 13: 
+Residual error 496.98, Average cardinality 8.30
+Iter 14: 
+Residual error 496.97, Average cardinality 8.30
+Iter 15: 
+Residual error 496.97, Average cardinality 8.30
+Iter 16: 
+Residual error 496.97, Average cardinality 8.29
+Iter 17: 
+Residual error 496.98, Average cardinality 8.29
+Iter 18: 
+Residual error 496.96, Average cardinality 8.29
+Iter 19: 
+Residual error 496.97, Average cardinality 8.29
+
+
+Unitary dictionary: 
+Residual error 496.96, Average cardinality 8.29
+SOS Boosting: epsilon 230.738, rho 1.00, PSNR 30.677

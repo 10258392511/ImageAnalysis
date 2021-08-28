@@ -1,0 +1,72 @@
+DCT dictionary: Training set, 
+Residual error 39.89, Average cardinality 4.00
+
+DCT dictionary: Testing  set, 
+Residual error 32.08, Average cardinality 4.00
+
+Iter  0: 
+Residual error 39.89, Average cardinality 4.00
+
+Iter  1: 
+Residual error 37.09, Average cardinality 4.00
+
+Iter  2: 
+Residual error 36.23, Average cardinality 4.00
+
+Iter  3: 
+Residual error 35.78, Average cardinality 4.00
+
+Iter  4: 
+Residual error 35.52, Average cardinality 4.00
+
+Iter  5: 
+Residual error 35.33, Average cardinality 4.00
+
+Iter  6: 
+Residual error 35.19, Average cardinality 4.00
+
+Iter  7: 
+Residual error 35.10, Average cardinality 4.00
+
+Iter  8: 
+Residual error 35.02, Average cardinality 4.00
+
+Iter  9: 
+Residual error 34.96, Average cardinality 4.00
+
+Iter 10: 
+Residual error 34.90, Average cardinality 4.00
+
+Iter 11: 
+Residual error 34.84, Average cardinality 4.00
+
+Iter 12: 
+Residual error 34.77, Average cardinality 4.00
+
+Iter 13: 
+Residual error 34.70, Average cardinality 4.00
+
+Iter 14: 
+Residual error 34.64, Average cardinality 4.00
+
+Iter 15: 
+Residual error 34.60, Average cardinality 4.00
+
+Iter 16: 
+Residual error 34.57, Average cardinality 4.00
+
+Iter 17: 
+Residual error 34.53, Average cardinality 4.00
+
+Iter 18: 
+Residual error 34.50, Average cardinality 4.00
+
+Iter 19: 
+Residual error 34.47, Average cardinality 4.00
+
+
+Learned dictionary: Training set, 
+Residual error 34.45, Average cardinality 4.00
+
+Learned dictionary: Testing  set, 
+Residual error 29.13, Average cardinality 4.00

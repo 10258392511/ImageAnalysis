@@ -1,0 +1,2019 @@
+"/Users/zhexinwu/Desktop/Study and Working/Testings/Python/Experiment1/venv/bin/python" "/Users/zhexinwu/Desktop/Study and Working/Testings/Python/Experiment1/venv/Experiments/SparseModel/Final_Project_Python/project2_all.py"
+Oracle experiment 1/10, PSNR: 40.174
+Oracle experiment 2/10, PSNR: 44.922
+Oracle experiment 3/10, PSNR: 42.676
+Oracle experiment 4/10, PSNR: 44.640
+Oracle experiment 5/10, PSNR: 42.136
+Oracle experiment 6/10, PSNR: 42.042
+Oracle experiment 7/10, PSNR: 42.849
+Oracle experiment 8/10, PSNR: 42.783
+Oracle experiment 9/10, PSNR: 44.924
+Oracle experiment 10/10, PSNR: 42.528
+Oracle: Average PSNR = 42.967
+
+OMP experiment 1/10, cardinality 0, PSNR: 24.901
+OMP experiment 1/10, cardinality 1, PSNR: 25.566
+OMP experiment 1/10, cardinality 2, PSNR: 28.967
+OMP experiment 1/10, cardinality 3, PSNR: 29.904
+OMP experiment 1/10, cardinality 4, PSNR: 31.128
+OMP experiment 1/10, cardinality 5, PSNR: 31.554
+OMP experiment 1/10, cardinality 6, PSNR: 31.514
+OMP experiment 1/10, cardinality 7, PSNR: 31.962
+OMP experiment 1/10, cardinality 8, PSNR: 32.528
+OMP experiment 1/10, cardinality 9, PSNR: 33.257
+OMP experiment 1/10, cardinality 10, PSNR: 32.844
+OMP experiment 1/10, cardinality 11, PSNR: 32.570
+OMP experiment 1/10, cardinality 12, PSNR: 32.487
+OMP experiment 1/10, cardinality 13, PSNR: 32.290
+OMP experiment 1/10, cardinality 14, PSNR: 32.135
+OMP experiment 1/10, cardinality 15, PSNR: 31.714
+OMP experiment 1/10, cardinality 16, PSNR: 31.573
+OMP experiment 1/10, cardinality 17, PSNR: 31.478
+OMP experiment 1/10, cardinality 18, PSNR: 31.358
+OMP experiment 1/10, cardinality 19, PSNR: 31.072
+OMP experiment 2/10, cardinality 0, PSNR: 19.613
+OMP experiment 2/10, cardinality 1, PSNR: 21.738
+OMP experiment 2/10, cardinality 2, PSNR: 24.842
+OMP experiment 2/10, cardinality 3, PSNR: 28.465
+OMP experiment 2/10, cardinality 4, PSNR: 29.474
+OMP experiment 2/10, cardinality 5, PSNR: 32.303
+OMP experiment 2/10, cardinality 6, PSNR: 40.128
+OMP experiment 2/10, cardinality 7, PSNR: 38.520
+OMP experiment 2/10, cardinality 8, PSNR: 37.168
+OMP experiment 2/10, cardinality 9, PSNR: 37.132
+OMP experiment 2/10, cardinality 10, PSNR: 36.258
+OMP experiment 2/10, cardinality 11, PSNR: 35.567
+OMP experiment 2/10, cardinality 12, PSNR: 35.229
+OMP experiment 2/10, cardinality 13, PSNR: 34.962
+OMP experiment 2/10, cardinality 14, PSNR: 34.604
+OMP experiment 2/10, cardinality 15, PSNR: 34.538
+OMP experiment 2/10, cardinality 16, PSNR: 34.155
+OMP experiment 2/10, cardinality 17, PSNR: 33.938
+OMP experiment 2/10, cardinality 18, PSNR: 33.755
+OMP experiment 2/10, cardinality 19, PSNR: 33.547
+OMP experiment 3/10, cardinality 0, PSNR: 19.685
+OMP experiment 3/10, cardinality 1, PSNR: 22.672
+OMP experiment 3/10, cardinality 2, PSNR: 23.537
+OMP experiment 3/10, cardinality 3, PSNR: 25.122
+OMP experiment 3/10, cardinality 4, PSNR: 26.367
+OMP experiment 3/10, cardinality 5, PSNR: 29.044
+OMP experiment 3/10, cardinality 6, PSNR: 30.277
+OMP experiment 3/10, cardinality 7, PSNR: 31.134
+OMP experiment 3/10, cardinality 8, PSNR: 31.482
+OMP experiment 3/10, cardinality 9, PSNR: 33.534
+OMP experiment 3/10, cardinality 10, PSNR: 33.202
+OMP experiment 3/10, cardinality 11, PSNR: 36.746
+OMP experiment 3/10, cardinality 12, PSNR: 36.616
+OMP experiment 3/10, cardinality 13, PSNR: 36.050
+OMP experiment 3/10, cardinality 14, PSNR: 36.057
+OMP experiment 3/10, cardinality 15, PSNR: 35.760
+OMP experiment 3/10, cardinality 16, PSNR: 35.583
+OMP experiment 3/10, cardinality 17, PSNR: 35.147
+OMP experiment 3/10, cardinality 18, PSNR: 34.531
+OMP experiment 3/10, cardinality 19, PSNR: 34.315
+OMP experiment 4/10, cardinality 0, PSNR: 16.991
+OMP experiment 4/10, cardinality 1, PSNR: 19.407
+OMP experiment 4/10, cardinality 2, PSNR: 21.590
+OMP experiment 4/10, cardinality 3, PSNR: 22.652
+OMP experiment 4/10, cardinality 4, PSNR: 23.819
+OMP experiment 4/10, cardinality 5, PSNR: 24.627
+OMP experiment 4/10, cardinality 6, PSNR: 25.717
+OMP experiment 4/10, cardinality 7, PSNR: 26.581
+OMP experiment 4/10, cardinality 8, PSNR: 27.383
+OMP experiment 4/10, cardinality 9, PSNR: 27.509
+OMP experiment 4/10, cardinality 10, PSNR: 27.796
+OMP experiment 4/10, cardinality 11, PSNR: 28.345
+OMP experiment 4/10, cardinality 12, PSNR: 27.937
+OMP experiment 4/10, cardinality 13, PSNR: 28.186
+OMP experiment 4/10, cardinality 14, PSNR: 29.116
+OMP experiment 4/10, cardinality 15, PSNR: 29.352
+OMP experiment 4/10, cardinality 16, PSNR: 29.508
+OMP experiment 4/10, cardinality 17, PSNR: 29.349
+OMP experiment 4/10, cardinality 18, PSNR: 29.463
+OMP experiment 4/10, cardinality 19, PSNR: 29.373
+OMP experiment 5/10, cardinality 0, PSNR: 18.821
+OMP experiment 5/10, cardinality 1, PSNR: 23.035
+OMP experiment 5/10, cardinality 2, PSNR: 25.210
+OMP experiment 5/10, cardinality 3, PSNR: 27.052
+OMP experiment 5/10, cardinality 4, PSNR: 30.170
+OMP experiment 5/10, cardinality 5, PSNR: 34.814
+OMP experiment 5/10, cardinality 6, PSNR: 36.177
+OMP experiment 5/10, cardinality 7, PSNR: 36.611
+OMP experiment 5/10, cardinality 8, PSNR: 36.524
+OMP experiment 5/10, cardinality 9, PSNR: 35.990
+OMP experiment 5/10, cardinality 10, PSNR: 35.610
+OMP experiment 5/10, cardinality 11, PSNR: 35.228
+OMP experiment 5/10, cardinality 12, PSNR: 34.819
+OMP experiment 5/10, cardinality 13, PSNR: 34.548
+OMP experiment 5/10, cardinality 14, PSNR: 35.083
+OMP experiment 5/10, cardinality 15, PSNR: 35.097
+OMP experiment 5/10, cardinality 16, PSNR: 34.952
+OMP experiment 5/10, cardinality 17, PSNR: 34.750
+OMP experiment 5/10, cardinality 18, PSNR: 34.617
+OMP experiment 5/10, cardinality 19, PSNR: 34.433
+OMP experiment 6/10, cardinality 0, PSNR: 19.618
+OMP experiment 6/10, cardinality 1, PSNR: 21.461
+OMP experiment 6/10, cardinality 2, PSNR: 23.042
+OMP experiment 6/10, cardinality 3, PSNR: 26.154
+OMP experiment 6/10, cardinality 4, PSNR: 28.616
+OMP experiment 6/10, cardinality 5, PSNR: 30.237
+OMP experiment 6/10, cardinality 6, PSNR: 30.634
+OMP experiment 6/10, cardinality 7, PSNR: 33.048
+OMP experiment 6/10, cardinality 8, PSNR: 33.421
+OMP experiment 6/10, cardinality 9, PSNR: 35.694
+OMP experiment 6/10, cardinality 10, PSNR: 35.326
+OMP experiment 6/10, cardinality 11, PSNR: 34.995
+OMP experiment 6/10, cardinality 12, PSNR: 34.746
+OMP experiment 6/10, cardinality 13, PSNR: 34.577
+OMP experiment 6/10, cardinality 14, PSNR: 34.382
+OMP experiment 6/10, cardinality 15, PSNR: 34.200
+OMP experiment 6/10, cardinality 16, PSNR: 34.045
+OMP experiment 6/10, cardinality 17, PSNR: 33.766
+OMP experiment 6/10, cardinality 18, PSNR: 33.440
+OMP experiment 6/10, cardinality 19, PSNR: 33.260
+OMP experiment 7/10, cardinality 0, PSNR: 19.128
+OMP experiment 7/10, cardinality 1, PSNR: 23.147
+OMP experiment 7/10, cardinality 2, PSNR: 24.970
+OMP experiment 7/10, cardinality 3, PSNR: 26.596
+OMP experiment 7/10, cardinality 4, PSNR: 28.666
+OMP experiment 7/10, cardinality 5, PSNR: 29.323
+OMP experiment 7/10, cardinality 6, PSNR: 30.350
+OMP experiment 7/10, cardinality 7, PSNR: 33.026
+OMP experiment 7/10, cardinality 8, PSNR: 35.285
+OMP experiment 7/10, cardinality 9, PSNR: 36.723
+OMP experiment 7/10, cardinality 10, PSNR: 35.935
+OMP experiment 7/10, cardinality 11, PSNR: 35.603
+OMP experiment 7/10, cardinality 12, PSNR: 34.980
+OMP experiment 7/10, cardinality 13, PSNR: 34.464
+OMP experiment 7/10, cardinality 14, PSNR: 33.822
+OMP experiment 7/10, cardinality 15, PSNR: 33.568
+OMP experiment 7/10, cardinality 16, PSNR: 33.201
+OMP experiment 7/10, cardinality 17, PSNR: 32.949
+OMP experiment 7/10, cardinality 18, PSNR: 32.934
+OMP experiment 7/10, cardinality 19, PSNR: 32.803
+OMP experiment 8/10, cardinality 0, PSNR: 16.882
+OMP experiment 8/10, cardinality 1, PSNR: 18.196
+OMP experiment 8/10, cardinality 2, PSNR: 20.180
+OMP experiment 8/10, cardinality 3, PSNR: 22.562
+OMP experiment 8/10, cardinality 4, PSNR: 24.659
+OMP experiment 8/10, cardinality 5, PSNR: 28.920
+OMP experiment 8/10, cardinality 6, PSNR: 31.350
+OMP experiment 8/10, cardinality 7, PSNR: 32.051
+OMP experiment 8/10, cardinality 8, PSNR: 33.266
+OMP experiment 8/10, cardinality 9, PSNR: 33.684
+OMP experiment 8/10, cardinality 10, PSNR: 34.034
+OMP experiment 8/10, cardinality 11, PSNR: 33.288
+OMP experiment 8/10, cardinality 12, PSNR: 33.371
+OMP experiment 8/10, cardinality 13, PSNR: 33.074
+OMP experiment 8/10, cardinality 14, PSNR: 32.715
+OMP experiment 8/10, cardinality 15, PSNR: 32.726
+OMP experiment 8/10, cardinality 16, PSNR: 32.510
+OMP experiment 8/10, cardinality 17, PSNR: 32.357
+OMP experiment 8/10, cardinality 18, PSNR: 32.235
+OMP experiment 8/10, cardinality 19, PSNR: 32.029
+OMP experiment 9/10, cardinality 0, PSNR: 14.490
+OMP experiment 9/10, cardinality 1, PSNR: 16.467
+OMP experiment 9/10, cardinality 2, PSNR: 18.775
+OMP experiment 9/10, cardinality 3, PSNR: 21.779
+OMP experiment 9/10, cardinality 4, PSNR: 23.570
+OMP experiment 9/10, cardinality 5, PSNR: 25.804
+OMP experiment 9/10, cardinality 6, PSNR: 27.958
+OMP experiment 9/10, cardinality 7, PSNR: 30.826
+OMP experiment 9/10, cardinality 8, PSNR: 34.276
+OMP experiment 9/10, cardinality 9, PSNR: 33.655
+OMP experiment 9/10, cardinality 10, PSNR: 33.923
+OMP experiment 9/10, cardinality 11, PSNR: 33.975
+OMP experiment 9/10, cardinality 12, PSNR: 33.817
+OMP experiment 9/10, cardinality 13, PSNR: 33.565
+OMP experiment 9/10, cardinality 14, PSNR: 33.331
+OMP experiment 9/10, cardinality 15, PSNR: 32.808
+OMP experiment 9/10, cardinality 16, PSNR: 32.677
+OMP experiment 9/10, cardinality 17, PSNR: 32.553
+OMP experiment 9/10, cardinality 18, PSNR: 32.305
+OMP experiment 9/10, cardinality 19, PSNR: 32.208
+OMP experiment 10/10, cardinality 0, PSNR: 19.525
+OMP experiment 10/10, cardinality 1, PSNR: 21.567
+OMP experiment 10/10, cardinality 2, PSNR: 22.773
+OMP experiment 10/10, cardinality 3, PSNR: 23.752
+OMP experiment 10/10, cardinality 4, PSNR: 24.430
+OMP experiment 10/10, cardinality 5, PSNR: 25.861
+OMP experiment 10/10, cardinality 6, PSNR: 27.479
+OMP experiment 10/10, cardinality 7, PSNR: 28.207
+OMP experiment 10/10, cardinality 8, PSNR: 28.653
+OMP experiment 10/10, cardinality 9, PSNR: 28.972
+OMP experiment 10/10, cardinality 10, PSNR: 29.447
+OMP experiment 10/10, cardinality 11, PSNR: 29.612
+OMP experiment 10/10, cardinality 12, PSNR: 29.594
+OMP experiment 10/10, cardinality 13, PSNR: 29.491
+OMP experiment 10/10, cardinality 14, PSNR: 29.761
+OMP experiment 10/10, cardinality 15, PSNR: 29.724
+OMP experiment 10/10, cardinality 16, PSNR: 29.688
+OMP experiment 10/10, cardinality 17, PSNR: 29.846
+OMP experiment 10/10, cardinality 18, PSNR: 29.887
+OMP experiment 10/10, cardinality 19, PSNR: 29.960
+OMP: Average PSNR = 34.694
+
+BP experiment 1/10, lambda 1/10, PSNR 23.548
+BP experiment 1/10, lambda 2/10, PSNR 23.608
+BP experiment 1/10, lambda 3/10, PSNR 23.798
+BP experiment 1/10, lambda 4/10, PSNR 24.322
+BP experiment 1/10, lambda 5/10, PSNR 25.819
+BP experiment 1/10, lambda 6/10, PSNR 29.343
+BP experiment 1/10, lambda 7/10, PSNR 34.021
+BP experiment 1/10, lambda 8/10, PSNR 32.153
+BP experiment 1/10, lambda 9/10, PSNR 25.190
+BP experiment 1/10, lambda 10/10, PSNR 19.724
+BP experiment 2/10, lambda 1/10, PSNR 24.199
+BP experiment 2/10, lambda 2/10, PSNR 24.290
+BP experiment 2/10, lambda 3/10, PSNR 24.521
+BP experiment 2/10, lambda 4/10, PSNR 25.203
+BP experiment 2/10, lambda 5/10, PSNR 27.025
+BP experiment 2/10, lambda 6/10, PSNR 30.917
+BP experiment 2/10, lambda 7/10, PSNR 34.060
+BP experiment 2/10, lambda 8/10, PSNR 28.249
+BP experiment 2/10, lambda 9/10, PSNR 18.764
+BP experiment 2/10, lambda 10/10, PSNR 15.178
+BP experiment 3/10, lambda 1/10, PSNR 23.611
+BP experiment 3/10, lambda 2/10, PSNR 23.730
+BP experiment 3/10, lambda 3/10, PSNR 24.122
+BP experiment 3/10, lambda 4/10, PSNR 25.172
+BP experiment 3/10, lambda 5/10, PSNR 27.529
+BP experiment 3/10, lambda 6/10, PSNR 31.939
+BP experiment 3/10, lambda 7/10, PSNR 35.922
+BP experiment 3/10, lambda 8/10, PSNR 30.593
+BP experiment 3/10, lambda 9/10, PSNR 20.332
+BP experiment 3/10, lambda 10/10, PSNR 15.611
+BP experiment 4/10, lambda 1/10, PSNR 24.325
+BP experiment 4/10, lambda 2/10, PSNR 24.414
+BP experiment 4/10, lambda 3/10, PSNR 24.774
+BP experiment 4/10, lambda 4/10, PSNR 25.642
+BP experiment 4/10, lambda 5/10, PSNR 27.434
+BP experiment 4/10, lambda 6/10, PSNR 31.087
+BP experiment 4/10, lambda 7/10, PSNR 34.643
+BP experiment 4/10, lambda 8/10, PSNR 30.409
+BP experiment 4/10, lambda 9/10, PSNR 19.633
+BP experiment 4/10, lambda 10/10, PSNR 14.896
+BP experiment 5/10, lambda 1/10, PSNR 24.012
+BP experiment 5/10, lambda 2/10, PSNR 24.083
+BP experiment 5/10, lambda 3/10, PSNR 24.306
+BP experiment 5/10, lambda 4/10, PSNR 24.990
+BP experiment 5/10, lambda 5/10, PSNR 26.869
+BP experiment 5/10, lambda 6/10, PSNR 30.974
+BP experiment 5/10, lambda 7/10, PSNR 35.293
+BP experiment 5/10, lambda 8/10, PSNR 31.448
+BP experiment 5/10, lambda 9/10, PSNR 22.276
+BP experiment 5/10, lambda 10/10, PSNR 16.828
+BP experiment 6/10, lambda 1/10, PSNR 24.680
+BP experiment 6/10, lambda 2/10, PSNR 24.721
+BP experiment 6/10, lambda 3/10, PSNR 24.903
+BP experiment 6/10, lambda 4/10, PSNR 25.488
+BP experiment 6/10, lambda 5/10, PSNR 27.051
+BP experiment 6/10, lambda 6/10, PSNR 31.284
+BP experiment 6/10, lambda 7/10, PSNR 35.597
+BP experiment 6/10, lambda 8/10, PSNR 30.089
+BP experiment 6/10, lambda 9/10, PSNR 22.029
+BP experiment 6/10, lambda 10/10, PSNR 16.233
+BP experiment 7/10, lambda 1/10, PSNR 24.679
+BP experiment 7/10, lambda 2/10, PSNR 24.723
+BP experiment 7/10, lambda 3/10, PSNR 24.854
+BP experiment 7/10, lambda 4/10, PSNR 25.238
+BP experiment 7/10, lambda 5/10, PSNR 26.565
+BP experiment 7/10, lambda 6/10, PSNR 29.813
+BP experiment 7/10, lambda 7/10, PSNR 34.693
+BP experiment 7/10, lambda 8/10, PSNR 31.496
+BP experiment 7/10, lambda 9/10, PSNR 22.376
+BP experiment 7/10, lambda 10/10, PSNR 16.462
+BP experiment 8/10, lambda 1/10, PSNR 24.465
+BP experiment 8/10, lambda 2/10, PSNR 24.519
+BP experiment 8/10, lambda 3/10, PSNR 24.698
+BP experiment 8/10, lambda 4/10, PSNR 25.231
+BP experiment 8/10, lambda 5/10, PSNR 26.624
+BP experiment 8/10, lambda 6/10, PSNR 29.919
+BP experiment 8/10, lambda 7/10, PSNR 33.385
+BP experiment 8/10, lambda 8/10, PSNR 30.700
+BP experiment 8/10, lambda 9/10, PSNR 22.171
+BP experiment 8/10, lambda 10/10, PSNR 15.450
+BP experiment 9/10, lambda 1/10, PSNR 23.908
+BP experiment 9/10, lambda 2/10, PSNR 23.999
+BP experiment 9/10, lambda 3/10, PSNR 24.272
+BP experiment 9/10, lambda 4/10, PSNR 25.167
+BP experiment 9/10, lambda 5/10, PSNR 27.461
+BP experiment 9/10, lambda 6/10, PSNR 31.388
+BP experiment 9/10, lambda 7/10, PSNR 31.960
+BP experiment 9/10, lambda 8/10, PSNR 25.365
+BP experiment 9/10, lambda 9/10, PSNR 16.890
+BP experiment 9/10, lambda 10/10, PSNR 12.283
+BP experiment 10/10, lambda 1/10, PSNR 25.245
+BP experiment 10/10, lambda 2/10, PSNR 25.313
+BP experiment 10/10, lambda 3/10, PSNR 25.546
+BP experiment 10/10, lambda 4/10, PSNR 26.275
+BP experiment 10/10, lambda 5/10, PSNR 28.367
+BP experiment 10/10, lambda 6/10, PSNR 32.350
+BP experiment 10/10, lambda 7/10, PSNR 35.842
+BP experiment 10/10, lambda 8/10, PSNR 30.170
+BP experiment 10/10, lambda 9/10, PSNR 21.544
+BP experiment 10/10, lambda 10/10, PSNR 15.947
+BP via ADMM: Average PSNR =  34.54167447059556 
+
+OMP as a function p: experiment 1/100, p_ind 1/7, MSE: 0.075
+OMP as a function p: experiment 1/100, p_ind 2/7, MSE: 0.064
+OMP as a function p: experiment 1/100, p_ind 3/7, MSE: 0.043
+OMP as a function p: experiment 1/100, p_ind 4/7, MSE: 0.033
+OMP as a function p: experiment 1/100, p_ind 5/7, MSE: 0.012
+OMP as a function p: experiment 1/100, p_ind 6/7, MSE: 0.013
+OMP as a function p: experiment 1/100, p_ind 7/7, MSE: 0.012
+OMP as a function p: experiment 2/100, p_ind 1/7, MSE: 0.122
+OMP as a function p: experiment 2/100, p_ind 2/7, MSE: 0.104
+OMP as a function p: experiment 2/100, p_ind 3/7, MSE: 0.057
+OMP as a function p: experiment 2/100, p_ind 4/7, MSE: 0.046
+OMP as a function p: experiment 2/100, p_ind 5/7, MSE: 0.021
+OMP as a function p: experiment 2/100, p_ind 6/7, MSE: 0.020
+OMP as a function p: experiment 2/100, p_ind 7/7, MSE: 0.019
+OMP as a function p: experiment 3/100, p_ind 1/7, MSE: 0.520
+OMP as a function p: experiment 3/100, p_ind 2/7, MSE: 0.496
+OMP as a function p: experiment 3/100, p_ind 3/7, MSE: 0.453
+OMP as a function p: experiment 3/100, p_ind 4/7, MSE: 0.436
+OMP as a function p: experiment 3/100, p_ind 5/7, MSE: 0.409
+OMP as a function p: experiment 3/100, p_ind 6/7, MSE: 0.407
+OMP as a function p: experiment 3/100, p_ind 7/7, MSE: 0.404
+OMP as a function p: experiment 4/100, p_ind 1/7, MSE: 0.556
+OMP as a function p: experiment 4/100, p_ind 2/7, MSE: 0.512
+OMP as a function p: experiment 4/100, p_ind 3/7, MSE: 0.472
+OMP as a function p: experiment 4/100, p_ind 4/7, MSE: 0.457
+OMP as a function p: experiment 4/100, p_ind 5/7, MSE: 0.427
+OMP as a function p: experiment 4/100, p_ind 6/7, MSE: 0.425
+OMP as a function p: experiment 4/100, p_ind 7/7, MSE: 0.424
+OMP as a function p: experiment 5/100, p_ind 1/7, MSE: 0.844
+OMP as a function p: experiment 5/100, p_ind 2/7, MSE: 0.699
+OMP as a function p: experiment 5/100, p_ind 3/7, MSE: 0.625
+OMP as a function p: experiment 5/100, p_ind 4/7, MSE: 0.609
+OMP as a function p: experiment 5/100, p_ind 5/7, MSE: 0.647
+OMP as a function p: experiment 5/100, p_ind 6/7, MSE: 0.576
+OMP as a function p: experiment 5/100, p_ind 7/7, MSE: 0.575
+OMP as a function p: experiment 6/100, p_ind 1/7, MSE: 1.150
+OMP as a function p: experiment 6/100, p_ind 2/7, MSE: 1.002
+OMP as a function p: experiment 6/100, p_ind 3/7, MSE: 0.925
+OMP as a function p: experiment 6/100, p_ind 4/7, MSE: 0.907
+OMP as a function p: experiment 6/100, p_ind 5/7, MSE: 0.944
+OMP as a function p: experiment 6/100, p_ind 6/7, MSE: 0.762
+OMP as a function p: experiment 6/100, p_ind 7/7, MSE: 0.576
+OMP as a function p: experiment 7/100, p_ind 1/7, MSE: 1.398
+OMP as a function p: experiment 7/100, p_ind 2/7, MSE: 1.258
+OMP as a function p: experiment 7/100, p_ind 3/7, MSE: 0.931
+OMP as a function p: experiment 7/100, p_ind 4/7, MSE: 1.057
+OMP as a function p: experiment 7/100, p_ind 5/7, MSE: 0.947
+OMP as a function p: experiment 7/100, p_ind 6/7, MSE: 0.765
+OMP as a function p: experiment 7/100, p_ind 7/7, MSE: 0.579
+OMP as a function p: experiment 8/100, p_ind 1/7, MSE: 1.676
+OMP as a function p: experiment 8/100, p_ind 2/7, MSE: 1.534
+OMP as a function p: experiment 8/100, p_ind 3/7, MSE: 1.206
+OMP as a function p: experiment 8/100, p_ind 4/7, MSE: 1.330
+OMP as a function p: experiment 8/100, p_ind 5/7, MSE: 1.102
+OMP as a function p: experiment 8/100, p_ind 6/7, MSE: 0.920
+OMP as a function p: experiment 8/100, p_ind 7/7, MSE: 0.580
+OMP as a function p: experiment 9/100, p_ind 1/7, MSE: 4.482
+OMP as a function p: experiment 9/100, p_ind 2/7, MSE: 4.348
+OMP as a function p: experiment 9/100, p_ind 3/7, MSE: 4.021
+OMP as a function p: experiment 9/100, p_ind 4/7, MSE: 4.126
+OMP as a function p: experiment 9/100, p_ind 5/7, MSE: 3.907
+OMP as a function p: experiment 9/100, p_ind 6/7, MSE: 3.711
+OMP as a function p: experiment 9/100, p_ind 7/7, MSE: 0.588
+OMP as a function p: experiment 10/100, p_ind 1/7, MSE: 4.507
+OMP as a function p: experiment 10/100, p_ind 2/7, MSE: 4.374
+OMP as a function p: experiment 10/100, p_ind 3/7, MSE: 4.046
+OMP as a function p: experiment 10/100, p_ind 4/7, MSE: 4.148
+OMP as a function p: experiment 10/100, p_ind 5/7, MSE: 3.928
+OMP as a function p: experiment 10/100, p_ind 6/7, MSE: 3.711
+OMP as a function p: experiment 10/100, p_ind 7/7, MSE: 0.588
+OMP as a function p: experiment 11/100, p_ind 1/7, MSE: 4.561
+OMP as a function p: experiment 11/100, p_ind 2/7, MSE: 4.414
+OMP as a function p: experiment 11/100, p_ind 3/7, MSE: 4.062
+OMP as a function p: experiment 11/100, p_ind 4/7, MSE: 4.171
+OMP as a function p: experiment 11/100, p_ind 5/7, MSE: 3.949
+OMP as a function p: experiment 11/100, p_ind 6/7, MSE: 3.712
+OMP as a function p: experiment 11/100, p_ind 7/7, MSE: 0.589
+OMP as a function p: experiment 12/100, p_ind 1/7, MSE: 4.603
+OMP as a function p: experiment 12/100, p_ind 2/7, MSE: 4.464
+OMP as a function p: experiment 12/100, p_ind 3/7, MSE: 4.117
+OMP as a function p: experiment 12/100, p_ind 4/7, MSE: 4.213
+OMP as a function p: experiment 12/100, p_ind 5/7, MSE: 3.986
+OMP as a function p: experiment 12/100, p_ind 6/7, MSE: 3.748
+OMP as a function p: experiment 12/100, p_ind 7/7, MSE: 0.600
+OMP as a function p: experiment 13/100, p_ind 1/7, MSE: 4.621
+OMP as a function p: experiment 13/100, p_ind 2/7, MSE: 4.478
+OMP as a function p: experiment 13/100, p_ind 3/7, MSE: 4.124
+OMP as a function p: experiment 13/100, p_ind 4/7, MSE: 4.219
+OMP as a function p: experiment 13/100, p_ind 5/7, MSE: 3.993
+OMP as a function p: experiment 13/100, p_ind 6/7, MSE: 3.752
+OMP as a function p: experiment 13/100, p_ind 7/7, MSE: 0.611
+OMP as a function p: experiment 14/100, p_ind 1/7, MSE: 4.777
+OMP as a function p: experiment 14/100, p_ind 2/7, MSE: 4.506
+OMP as a function p: experiment 14/100, p_ind 3/7, MSE: 4.138
+OMP as a function p: experiment 14/100, p_ind 4/7, MSE: 4.231
+OMP as a function p: experiment 14/100, p_ind 5/7, MSE: 4.011
+OMP as a function p: experiment 14/100, p_ind 6/7, MSE: 3.765
+OMP as a function p: experiment 14/100, p_ind 7/7, MSE: 0.627
+OMP as a function p: experiment 15/100, p_ind 1/7, MSE: 4.779
+OMP as a function p: experiment 15/100, p_ind 2/7, MSE: 4.507
+OMP as a function p: experiment 15/100, p_ind 3/7, MSE: 4.140
+OMP as a function p: experiment 15/100, p_ind 4/7, MSE: 4.233
+OMP as a function p: experiment 15/100, p_ind 5/7, MSE: 4.013
+OMP as a function p: experiment 15/100, p_ind 6/7, MSE: 3.767
+OMP as a function p: experiment 15/100, p_ind 7/7, MSE: 0.629
+OMP as a function p: experiment 16/100, p_ind 1/7, MSE: 4.874
+OMP as a function p: experiment 16/100, p_ind 2/7, MSE: 4.618
+OMP as a function p: experiment 16/100, p_ind 3/7, MSE: 4.155
+OMP as a function p: experiment 16/100, p_ind 4/7, MSE: 4.247
+OMP as a function p: experiment 16/100, p_ind 5/7, MSE: 4.083
+OMP as a function p: experiment 16/100, p_ind 6/7, MSE: 3.849
+OMP as a function p: experiment 16/100, p_ind 7/7, MSE: 0.671
+OMP as a function p: experiment 17/100, p_ind 1/7, MSE: 5.610
+OMP as a function p: experiment 17/100, p_ind 2/7, MSE: 5.273
+OMP as a function p: experiment 17/100, p_ind 3/7, MSE: 4.812
+OMP as a function p: experiment 17/100, p_ind 4/7, MSE: 4.913
+OMP as a function p: experiment 17/100, p_ind 5/7, MSE: 4.738
+OMP as a function p: experiment 17/100, p_ind 6/7, MSE: 4.505
+OMP as a function p: experiment 17/100, p_ind 7/7, MSE: 1.327
+OMP as a function p: experiment 18/100, p_ind 1/7, MSE: 6.132
+OMP as a function p: experiment 18/100, p_ind 2/7, MSE: 5.666
+OMP as a function p: experiment 18/100, p_ind 3/7, MSE: 5.204
+OMP as a function p: experiment 18/100, p_ind 4/7, MSE: 4.915
+OMP as a function p: experiment 18/100, p_ind 5/7, MSE: 4.738
+OMP as a function p: experiment 18/100, p_ind 6/7, MSE: 4.506
+OMP as a function p: experiment 18/100, p_ind 7/7, MSE: 1.328
+OMP as a function p: experiment 19/100, p_ind 1/7, MSE: 6.280
+OMP as a function p: experiment 19/100, p_ind 2/7, MSE: 5.835
+OMP as a function p: experiment 19/100, p_ind 3/7, MSE: 5.385
+OMP as a function p: experiment 19/100, p_ind 4/7, MSE: 5.043
+OMP as a function p: experiment 19/100, p_ind 5/7, MSE: 4.886
+OMP as a function p: experiment 19/100, p_ind 6/7, MSE: 4.636
+OMP as a function p: experiment 19/100, p_ind 7/7, MSE: 1.458
+OMP as a function p: experiment 20/100, p_ind 1/7, MSE: 6.309
+OMP as a function p: experiment 20/100, p_ind 2/7, MSE: 5.842
+OMP as a function p: experiment 20/100, p_ind 3/7, MSE: 5.389
+OMP as a function p: experiment 20/100, p_ind 4/7, MSE: 5.067
+OMP as a function p: experiment 20/100, p_ind 5/7, MSE: 4.910
+OMP as a function p: experiment 20/100, p_ind 6/7, MSE: 4.661
+OMP as a function p: experiment 20/100, p_ind 7/7, MSE: 1.484
+OMP as a function p: experiment 21/100, p_ind 1/7, MSE: 6.313
+OMP as a function p: experiment 21/100, p_ind 2/7, MSE: 5.847
+OMP as a function p: experiment 21/100, p_ind 3/7, MSE: 5.395
+OMP as a function p: experiment 21/100, p_ind 4/7, MSE: 5.073
+OMP as a function p: experiment 21/100, p_ind 5/7, MSE: 4.915
+OMP as a function p: experiment 21/100, p_ind 6/7, MSE: 4.664
+OMP as a function p: experiment 21/100, p_ind 7/7, MSE: 1.487
+OMP as a function p: experiment 22/100, p_ind 1/7, MSE: 6.320
+OMP as a function p: experiment 22/100, p_ind 2/7, MSE: 5.855
+OMP as a function p: experiment 22/100, p_ind 3/7, MSE: 5.400
+OMP as a function p: experiment 22/100, p_ind 4/7, MSE: 5.079
+OMP as a function p: experiment 22/100, p_ind 5/7, MSE: 4.920
+OMP as a function p: experiment 22/100, p_ind 6/7, MSE: 4.668
+OMP as a function p: experiment 22/100, p_ind 7/7, MSE: 1.490
+OMP as a function p: experiment 23/100, p_ind 1/7, MSE: 6.395
+OMP as a function p: experiment 23/100, p_ind 2/7, MSE: 5.932
+OMP as a function p: experiment 23/100, p_ind 3/7, MSE: 5.477
+OMP as a function p: experiment 23/100, p_ind 4/7, MSE: 5.086
+OMP as a function p: experiment 23/100, p_ind 5/7, MSE: 4.925
+OMP as a function p: experiment 23/100, p_ind 6/7, MSE: 4.671
+OMP as a function p: experiment 23/100, p_ind 7/7, MSE: 1.493
+OMP as a function p: experiment 24/100, p_ind 1/7, MSE: 6.460
+OMP as a function p: experiment 24/100, p_ind 2/7, MSE: 5.982
+OMP as a function p: experiment 24/100, p_ind 3/7, MSE: 5.526
+OMP as a function p: experiment 24/100, p_ind 4/7, MSE: 5.130
+OMP as a function p: experiment 24/100, p_ind 5/7, MSE: 4.966
+OMP as a function p: experiment 24/100, p_ind 6/7, MSE: 4.713
+OMP as a function p: experiment 24/100, p_ind 7/7, MSE: 1.534
+OMP as a function p: experiment 25/100, p_ind 1/7, MSE: 6.511
+OMP as a function p: experiment 25/100, p_ind 2/7, MSE: 6.014
+OMP as a function p: experiment 25/100, p_ind 3/7, MSE: 5.572
+OMP as a function p: experiment 25/100, p_ind 4/7, MSE: 5.152
+OMP as a function p: experiment 25/100, p_ind 5/7, MSE: 5.000
+OMP as a function p: experiment 25/100, p_ind 6/7, MSE: 4.730
+OMP as a function p: experiment 25/100, p_ind 7/7, MSE: 1.553
+OMP as a function p: experiment 26/100, p_ind 1/7, MSE: 6.540
+OMP as a function p: experiment 26/100, p_ind 2/7, MSE: 6.027
+OMP as a function p: experiment 26/100, p_ind 3/7, MSE: 5.582
+OMP as a function p: experiment 26/100, p_ind 4/7, MSE: 5.161
+OMP as a function p: experiment 26/100, p_ind 5/7, MSE: 5.009
+OMP as a function p: experiment 26/100, p_ind 6/7, MSE: 4.740
+OMP as a function p: experiment 26/100, p_ind 7/7, MSE: 1.561
+OMP as a function p: experiment 27/100, p_ind 1/7, MSE: 6.707
+OMP as a function p: experiment 27/100, p_ind 2/7, MSE: 6.198
+OMP as a function p: experiment 27/100, p_ind 3/7, MSE: 5.754
+OMP as a function p: experiment 27/100, p_ind 4/7, MSE: 5.332
+OMP as a function p: experiment 27/100, p_ind 5/7, MSE: 5.180
+OMP as a function p: experiment 27/100, p_ind 6/7, MSE: 4.910
+OMP as a function p: experiment 27/100, p_ind 7/7, MSE: 1.732
+OMP as a function p: experiment 28/100, p_ind 1/7, MSE: 6.754
+OMP as a function p: experiment 28/100, p_ind 2/7, MSE: 6.202
+OMP as a function p: experiment 28/100, p_ind 3/7, MSE: 5.755
+OMP as a function p: experiment 28/100, p_ind 4/7, MSE: 5.383
+OMP as a function p: experiment 28/100, p_ind 5/7, MSE: 5.227
+OMP as a function p: experiment 28/100, p_ind 6/7, MSE: 4.913
+OMP as a function p: experiment 28/100, p_ind 7/7, MSE: 1.733
+OMP as a function p: experiment 29/100, p_ind 1/7, MSE: 6.850
+OMP as a function p: experiment 29/100, p_ind 2/7, MSE: 6.205
+OMP as a function p: experiment 29/100, p_ind 3/7, MSE: 5.759
+OMP as a function p: experiment 29/100, p_ind 4/7, MSE: 5.387
+OMP as a function p: experiment 29/100, p_ind 5/7, MSE: 5.232
+OMP as a function p: experiment 29/100, p_ind 6/7, MSE: 4.918
+OMP as a function p: experiment 29/100, p_ind 7/7, MSE: 1.736
+OMP as a function p: experiment 30/100, p_ind 1/7, MSE: 9.809
+OMP as a function p: experiment 30/100, p_ind 2/7, MSE: 6.216
+OMP as a function p: experiment 30/100, p_ind 3/7, MSE: 5.766
+OMP as a function p: experiment 30/100, p_ind 4/7, MSE: 5.392
+OMP as a function p: experiment 30/100, p_ind 5/7, MSE: 5.241
+OMP as a function p: experiment 30/100, p_ind 6/7, MSE: 4.928
+OMP as a function p: experiment 30/100, p_ind 7/7, MSE: 1.743
+OMP as a function p: experiment 31/100, p_ind 1/7, MSE: 11.754
+OMP as a function p: experiment 31/100, p_ind 2/7, MSE: 8.159
+OMP as a function p: experiment 31/100, p_ind 3/7, MSE: 7.701
+OMP as a function p: experiment 31/100, p_ind 4/7, MSE: 5.418
+OMP as a function p: experiment 31/100, p_ind 5/7, MSE: 5.266
+OMP as a function p: experiment 31/100, p_ind 6/7, MSE: 4.951
+OMP as a function p: experiment 31/100, p_ind 7/7, MSE: 3.376
+OMP as a function p: experiment 32/100, p_ind 1/7, MSE: 12.123
+OMP as a function p: experiment 32/100, p_ind 2/7, MSE: 8.172
+OMP as a function p: experiment 32/100, p_ind 3/7, MSE: 7.713
+OMP as a function p: experiment 32/100, p_ind 4/7, MSE: 5.427
+OMP as a function p: experiment 32/100, p_ind 5/7, MSE: 5.276
+OMP as a function p: experiment 32/100, p_ind 6/7, MSE: 4.961
+OMP as a function p: experiment 32/100, p_ind 7/7, MSE: 3.383
+OMP as a function p: experiment 33/100, p_ind 1/7, MSE: 12.394
+OMP as a function p: experiment 33/100, p_ind 2/7, MSE: 8.175
+OMP as a function p: experiment 33/100, p_ind 3/7, MSE: 7.714
+OMP as a function p: experiment 33/100, p_ind 4/7, MSE: 5.429
+OMP as a function p: experiment 33/100, p_ind 5/7, MSE: 5.277
+OMP as a function p: experiment 33/100, p_ind 6/7, MSE: 4.962
+OMP as a function p: experiment 33/100, p_ind 7/7, MSE: 3.385
+OMP as a function p: experiment 34/100, p_ind 1/7, MSE: 13.120
+OMP as a function p: experiment 34/100, p_ind 2/7, MSE: 8.180
+OMP as a function p: experiment 34/100, p_ind 3/7, MSE: 7.722
+OMP as a function p: experiment 34/100, p_ind 4/7, MSE: 5.435
+OMP as a function p: experiment 34/100, p_ind 5/7, MSE: 5.283
+OMP as a function p: experiment 34/100, p_ind 6/7, MSE: 4.990
+OMP as a function p: experiment 34/100, p_ind 7/7, MSE: 3.390
+OMP as a function p: experiment 35/100, p_ind 1/7, MSE: 13.775
+OMP as a function p: experiment 35/100, p_ind 2/7, MSE: 8.196
+OMP as a function p: experiment 35/100, p_ind 3/7, MSE: 7.738
+OMP as a function p: experiment 35/100, p_ind 4/7, MSE: 5.448
+OMP as a function p: experiment 35/100, p_ind 5/7, MSE: 5.291
+OMP as a function p: experiment 35/100, p_ind 6/7, MSE: 4.997
+OMP as a function p: experiment 35/100, p_ind 7/7, MSE: 3.397
+OMP as a function p: experiment 36/100, p_ind 1/7, MSE: 13.902
+OMP as a function p: experiment 36/100, p_ind 2/7, MSE: 8.320
+OMP as a function p: experiment 36/100, p_ind 3/7, MSE: 7.860
+OMP as a function p: experiment 36/100, p_ind 4/7, MSE: 5.561
+OMP as a function p: experiment 36/100, p_ind 5/7, MSE: 5.403
+OMP as a function p: experiment 36/100, p_ind 6/7, MSE: 5.107
+OMP as a function p: experiment 36/100, p_ind 7/7, MSE: 3.506
+OMP as a function p: experiment 37/100, p_ind 1/7, MSE: 13.937
+OMP as a function p: experiment 37/100, p_ind 2/7, MSE: 8.353
+OMP as a function p: experiment 37/100, p_ind 3/7, MSE: 7.872
+OMP as a function p: experiment 37/100, p_ind 4/7, MSE: 5.574
+OMP as a function p: experiment 37/100, p_ind 5/7, MSE: 5.411
+OMP as a function p: experiment 37/100, p_ind 6/7, MSE: 5.114
+OMP as a function p: experiment 37/100, p_ind 7/7, MSE: 3.512
+OMP as a function p: experiment 38/100, p_ind 1/7, MSE: 13.941
+OMP as a function p: experiment 38/100, p_ind 2/7, MSE: 8.356
+OMP as a function p: experiment 38/100, p_ind 3/7, MSE: 7.874
+OMP as a function p: experiment 38/100, p_ind 4/7, MSE: 5.577
+OMP as a function p: experiment 38/100, p_ind 5/7, MSE: 5.415
+OMP as a function p: experiment 38/100, p_ind 6/7, MSE: 5.118
+OMP as a function p: experiment 38/100, p_ind 7/7, MSE: 3.515
+OMP as a function p: experiment 39/100, p_ind 1/7, MSE: 14.407
+OMP as a function p: experiment 39/100, p_ind 2/7, MSE: 8.769
+OMP as a function p: experiment 39/100, p_ind 3/7, MSE: 8.079
+OMP as a function p: experiment 39/100, p_ind 4/7, MSE: 5.989
+OMP as a function p: experiment 39/100, p_ind 5/7, MSE: 5.823
+OMP as a function p: experiment 39/100, p_ind 6/7, MSE: 5.526
+OMP as a function p: experiment 39/100, p_ind 7/7, MSE: 3.924
+OMP as a function p: experiment 40/100, p_ind 1/7, MSE: 14.429
+OMP as a function p: experiment 40/100, p_ind 2/7, MSE: 8.778
+OMP as a function p: experiment 40/100, p_ind 3/7, MSE: 8.084
+OMP as a function p: experiment 40/100, p_ind 4/7, MSE: 5.993
+OMP as a function p: experiment 40/100, p_ind 5/7, MSE: 5.827
+OMP as a function p: experiment 40/100, p_ind 6/7, MSE: 5.531
+OMP as a function p: experiment 40/100, p_ind 7/7, MSE: 3.928
+OMP as a function p: experiment 41/100, p_ind 1/7, MSE: 14.439
+OMP as a function p: experiment 41/100, p_ind 2/7, MSE: 8.785
+OMP as a function p: experiment 41/100, p_ind 3/7, MSE: 8.090
+OMP as a function p: experiment 41/100, p_ind 4/7, MSE: 6.001
+OMP as a function p: experiment 41/100, p_ind 5/7, MSE: 5.833
+OMP as a function p: experiment 41/100, p_ind 6/7, MSE: 5.537
+OMP as a function p: experiment 41/100, p_ind 7/7, MSE: 3.933
+OMP as a function p: experiment 42/100, p_ind 1/7, MSE: 14.442
+OMP as a function p: experiment 42/100, p_ind 2/7, MSE: 8.790
+OMP as a function p: experiment 42/100, p_ind 3/7, MSE: 8.094
+OMP as a function p: experiment 42/100, p_ind 4/7, MSE: 6.004
+OMP as a function p: experiment 42/100, p_ind 5/7, MSE: 5.836
+OMP as a function p: experiment 42/100, p_ind 6/7, MSE: 5.539
+OMP as a function p: experiment 42/100, p_ind 7/7, MSE: 3.935
+OMP as a function p: experiment 43/100, p_ind 1/7, MSE: 14.447
+OMP as a function p: experiment 43/100, p_ind 2/7, MSE: 8.795
+OMP as a function p: experiment 43/100, p_ind 3/7, MSE: 8.099
+OMP as a function p: experiment 43/100, p_ind 4/7, MSE: 6.007
+OMP as a function p: experiment 43/100, p_ind 5/7, MSE: 5.837
+OMP as a function p: experiment 43/100, p_ind 6/7, MSE: 5.539
+OMP as a function p: experiment 43/100, p_ind 7/7, MSE: 3.935
+OMP as a function p: experiment 44/100, p_ind 1/7, MSE: 14.452
+OMP as a function p: experiment 44/100, p_ind 2/7, MSE: 8.799
+OMP as a function p: experiment 44/100, p_ind 3/7, MSE: 8.101
+OMP as a function p: experiment 44/100, p_ind 4/7, MSE: 6.008
+OMP as a function p: experiment 44/100, p_ind 5/7, MSE: 5.838
+OMP as a function p: experiment 44/100, p_ind 6/7, MSE: 5.540
+OMP as a function p: experiment 44/100, p_ind 7/7, MSE: 3.936
+OMP as a function p: experiment 45/100, p_ind 1/7, MSE: 14.475
+OMP as a function p: experiment 45/100, p_ind 2/7, MSE: 8.819
+OMP as a function p: experiment 45/100, p_ind 3/7, MSE: 8.114
+OMP as a function p: experiment 45/100, p_ind 4/7, MSE: 6.022
+OMP as a function p: experiment 45/100, p_ind 5/7, MSE: 5.848
+OMP as a function p: experiment 45/100, p_ind 6/7, MSE: 5.548
+OMP as a function p: experiment 45/100, p_ind 7/7, MSE: 3.946
+OMP as a function p: experiment 46/100, p_ind 1/7, MSE: 14.521
+OMP as a function p: experiment 46/100, p_ind 2/7, MSE: 8.880
+OMP as a function p: experiment 46/100, p_ind 3/7, MSE: 8.179
+OMP as a function p: experiment 46/100, p_ind 4/7, MSE: 6.058
+OMP as a function p: experiment 46/100, p_ind 5/7, MSE: 5.884
+OMP as a function p: experiment 46/100, p_ind 6/7, MSE: 5.578
+OMP as a function p: experiment 46/100, p_ind 7/7, MSE: 3.970
+OMP as a function p: experiment 47/100, p_ind 1/7, MSE: 14.567
+OMP as a function p: experiment 47/100, p_ind 2/7, MSE: 8.904
+OMP as a function p: experiment 47/100, p_ind 3/7, MSE: 8.199
+OMP as a function p: experiment 47/100, p_ind 4/7, MSE: 6.079
+OMP as a function p: experiment 47/100, p_ind 5/7, MSE: 5.903
+OMP as a function p: experiment 47/100, p_ind 6/7, MSE: 5.595
+OMP as a function p: experiment 47/100, p_ind 7/7, MSE: 3.986
+OMP as a function p: experiment 48/100, p_ind 1/7, MSE: 14.647
+OMP as a function p: experiment 48/100, p_ind 2/7, MSE: 9.690
+OMP as a function p: experiment 48/100, p_ind 3/7, MSE: 8.286
+OMP as a function p: experiment 48/100, p_ind 4/7, MSE: 6.168
+OMP as a function p: experiment 48/100, p_ind 5/7, MSE: 5.993
+OMP as a function p: experiment 48/100, p_ind 6/7, MSE: 5.686
+OMP as a function p: experiment 48/100, p_ind 7/7, MSE: 4.065
+OMP as a function p: experiment 49/100, p_ind 1/7, MSE: 14.698
+OMP as a function p: experiment 49/100, p_ind 2/7, MSE: 9.715
+OMP as a function p: experiment 49/100, p_ind 3/7, MSE: 8.311
+OMP as a function p: experiment 49/100, p_ind 4/7, MSE: 6.192
+OMP as a function p: experiment 49/100, p_ind 5/7, MSE: 6.012
+OMP as a function p: experiment 49/100, p_ind 6/7, MSE: 5.701
+OMP as a function p: experiment 49/100, p_ind 7/7, MSE: 4.080
+OMP as a function p: experiment 50/100, p_ind 1/7, MSE: 14.809
+OMP as a function p: experiment 50/100, p_ind 2/7, MSE: 9.780
+OMP as a function p: experiment 50/100, p_ind 3/7, MSE: 8.348
+OMP as a function p: experiment 50/100, p_ind 4/7, MSE: 6.196
+OMP as a function p: experiment 50/100, p_ind 5/7, MSE: 6.016
+OMP as a function p: experiment 50/100, p_ind 6/7, MSE: 5.705
+OMP as a function p: experiment 50/100, p_ind 7/7, MSE: 4.083
+OMP as a function p: experiment 51/100, p_ind 1/7, MSE: 14.816
+OMP as a function p: experiment 51/100, p_ind 2/7, MSE: 9.791
+OMP as a function p: experiment 51/100, p_ind 3/7, MSE: 8.720
+OMP as a function p: experiment 51/100, p_ind 4/7, MSE: 6.561
+OMP as a function p: experiment 51/100, p_ind 5/7, MSE: 6.382
+OMP as a function p: experiment 51/100, p_ind 6/7, MSE: 5.706
+OMP as a function p: experiment 51/100, p_ind 7/7, MSE: 4.084
+OMP as a function p: experiment 52/100, p_ind 1/7, MSE: 14.845
+OMP as a function p: experiment 52/100, p_ind 2/7, MSE: 9.842
+OMP as a function p: experiment 52/100, p_ind 3/7, MSE: 8.756
+OMP as a function p: experiment 52/100, p_ind 4/7, MSE: 6.589
+OMP as a function p: experiment 52/100, p_ind 5/7, MSE: 6.407
+OMP as a function p: experiment 52/100, p_ind 6/7, MSE: 5.729
+OMP as a function p: experiment 52/100, p_ind 7/7, MSE: 4.105
+OMP as a function p: experiment 53/100, p_ind 1/7, MSE: 14.850
+OMP as a function p: experiment 53/100, p_ind 2/7, MSE: 9.846
+OMP as a function p: experiment 53/100, p_ind 3/7, MSE: 8.761
+OMP as a function p: experiment 53/100, p_ind 4/7, MSE: 6.593
+OMP as a function p: experiment 53/100, p_ind 5/7, MSE: 6.410
+OMP as a function p: experiment 53/100, p_ind 6/7, MSE: 5.732
+OMP as a function p: experiment 53/100, p_ind 7/7, MSE: 4.106
+OMP as a function p: experiment 54/100, p_ind 1/7, MSE: 14.897
+OMP as a function p: experiment 54/100, p_ind 2/7, MSE: 9.881
+OMP as a function p: experiment 54/100, p_ind 3/7, MSE: 8.794
+OMP as a function p: experiment 54/100, p_ind 4/7, MSE: 6.638
+OMP as a function p: experiment 54/100, p_ind 5/7, MSE: 6.428
+OMP as a function p: experiment 54/100, p_ind 6/7, MSE: 5.733
+OMP as a function p: experiment 54/100, p_ind 7/7, MSE: 4.108
+OMP as a function p: experiment 55/100, p_ind 1/7, MSE: 14.907
+OMP as a function p: experiment 55/100, p_ind 2/7, MSE: 9.884
+OMP as a function p: experiment 55/100, p_ind 3/7, MSE: 8.797
+OMP as a function p: experiment 55/100, p_ind 4/7, MSE: 6.641
+OMP as a function p: experiment 55/100, p_ind 5/7, MSE: 6.431
+OMP as a function p: experiment 55/100, p_ind 6/7, MSE: 5.736
+OMP as a function p: experiment 55/100, p_ind 7/7, MSE: 4.109
+OMP as a function p: experiment 56/100, p_ind 1/7, MSE: 15.330
+OMP as a function p: experiment 56/100, p_ind 2/7, MSE: 10.311
+OMP as a function p: experiment 56/100, p_ind 3/7, MSE: 9.222
+OMP as a function p: experiment 56/100, p_ind 4/7, MSE: 7.063
+OMP as a function p: experiment 56/100, p_ind 5/7, MSE: 7.232
+OMP as a function p: experiment 56/100, p_ind 6/7, MSE: 6.156
+OMP as a function p: experiment 56/100, p_ind 7/7, MSE: 4.528
+OMP as a function p: experiment 57/100, p_ind 1/7, MSE: 15.375
+OMP as a function p: experiment 57/100, p_ind 2/7, MSE: 10.351
+OMP as a function p: experiment 57/100, p_ind 3/7, MSE: 9.231
+OMP as a function p: experiment 57/100, p_ind 4/7, MSE: 7.069
+OMP as a function p: experiment 57/100, p_ind 5/7, MSE: 7.238
+OMP as a function p: experiment 57/100, p_ind 6/7, MSE: 6.160
+OMP as a function p: experiment 57/100, p_ind 7/7, MSE: 4.531
+OMP as a function p: experiment 58/100, p_ind 1/7, MSE: 15.422
+OMP as a function p: experiment 58/100, p_ind 2/7, MSE: 10.369
+OMP as a function p: experiment 58/100, p_ind 3/7, MSE: 9.233
+OMP as a function p: experiment 58/100, p_ind 4/7, MSE: 7.071
+OMP as a function p: experiment 58/100, p_ind 5/7, MSE: 7.239
+OMP as a function p: experiment 58/100, p_ind 6/7, MSE: 6.161
+OMP as a function p: experiment 58/100, p_ind 7/7, MSE: 4.532
+OMP as a function p: experiment 59/100, p_ind 1/7, MSE: 15.524
+OMP as a function p: experiment 59/100, p_ind 2/7, MSE: 10.385
+OMP as a function p: experiment 59/100, p_ind 3/7, MSE: 9.236
+OMP as a function p: experiment 59/100, p_ind 4/7, MSE: 7.074
+OMP as a function p: experiment 59/100, p_ind 5/7, MSE: 7.242
+OMP as a function p: experiment 59/100, p_ind 6/7, MSE: 6.166
+OMP as a function p: experiment 59/100, p_ind 7/7, MSE: 4.538
+OMP as a function p: experiment 60/100, p_ind 1/7, MSE: 15.535
+OMP as a function p: experiment 60/100, p_ind 2/7, MSE: 10.394
+OMP as a function p: experiment 60/100, p_ind 3/7, MSE: 9.244
+OMP as a function p: experiment 60/100, p_ind 4/7, MSE: 7.081
+OMP as a function p: experiment 60/100, p_ind 5/7, MSE: 7.248
+OMP as a function p: experiment 60/100, p_ind 6/7, MSE: 6.171
+OMP as a function p: experiment 60/100, p_ind 7/7, MSE: 4.542
+OMP as a function p: experiment 61/100, p_ind 1/7, MSE: 15.559
+OMP as a function p: experiment 61/100, p_ind 2/7, MSE: 10.414
+OMP as a function p: experiment 61/100, p_ind 3/7, MSE: 9.262
+OMP as a function p: experiment 61/100, p_ind 4/7, MSE: 7.093
+OMP as a function p: experiment 61/100, p_ind 5/7, MSE: 7.260
+OMP as a function p: experiment 61/100, p_ind 6/7, MSE: 6.186
+OMP as a function p: experiment 61/100, p_ind 7/7, MSE: 4.554
+OMP as a function p: experiment 62/100, p_ind 1/7, MSE: 15.561
+OMP as a function p: experiment 62/100, p_ind 2/7, MSE: 10.416
+OMP as a function p: experiment 62/100, p_ind 3/7, MSE: 9.264
+OMP as a function p: experiment 62/100, p_ind 4/7, MSE: 7.098
+OMP as a function p: experiment 62/100, p_ind 5/7, MSE: 7.263
+OMP as a function p: experiment 62/100, p_ind 6/7, MSE: 6.188
+OMP as a function p: experiment 62/100, p_ind 7/7, MSE: 4.556
+OMP as a function p: experiment 63/100, p_ind 1/7, MSE: 17.624
+OMP as a function p: experiment 63/100, p_ind 2/7, MSE: 12.495
+OMP as a function p: experiment 63/100, p_ind 3/7, MSE: 11.042
+OMP as a function p: experiment 63/100, p_ind 4/7, MSE: 7.125
+OMP as a function p: experiment 63/100, p_ind 5/7, MSE: 7.291
+OMP as a function p: experiment 63/100, p_ind 6/7, MSE: 6.212
+OMP as a function p: experiment 63/100, p_ind 7/7, MSE: 4.576
+OMP as a function p: experiment 64/100, p_ind 1/7, MSE: 17.633
+OMP as a function p: experiment 64/100, p_ind 2/7, MSE: 12.501
+OMP as a function p: experiment 64/100, p_ind 3/7, MSE: 11.048
+OMP as a function p: experiment 64/100, p_ind 4/7, MSE: 7.129
+OMP as a function p: experiment 64/100, p_ind 5/7, MSE: 7.294
+OMP as a function p: experiment 64/100, p_ind 6/7, MSE: 6.214
+OMP as a function p: experiment 64/100, p_ind 7/7, MSE: 4.577
+OMP as a function p: experiment 65/100, p_ind 1/7, MSE: 17.639
+OMP as a function p: experiment 65/100, p_ind 2/7, MSE: 12.504
+OMP as a function p: experiment 65/100, p_ind 3/7, MSE: 11.050
+OMP as a function p: experiment 65/100, p_ind 4/7, MSE: 7.130
+OMP as a function p: experiment 65/100, p_ind 5/7, MSE: 7.295
+OMP as a function p: experiment 65/100, p_ind 6/7, MSE: 6.214
+OMP as a function p: experiment 65/100, p_ind 7/7, MSE: 4.578
+OMP as a function p: experiment 66/100, p_ind 1/7, MSE: 17.667
+OMP as a function p: experiment 66/100, p_ind 2/7, MSE: 12.526
+OMP as a function p: experiment 66/100, p_ind 3/7, MSE: 11.070
+OMP as a function p: experiment 66/100, p_ind 4/7, MSE: 7.143
+OMP as a function p: experiment 66/100, p_ind 5/7, MSE: 7.307
+OMP as a function p: experiment 66/100, p_ind 6/7, MSE: 6.226
+OMP as a function p: experiment 66/100, p_ind 7/7, MSE: 4.587
+OMP as a function p: experiment 67/100, p_ind 1/7, MSE: 17.677
+OMP as a function p: experiment 67/100, p_ind 2/7, MSE: 12.529
+OMP as a function p: experiment 67/100, p_ind 3/7, MSE: 11.073
+OMP as a function p: experiment 67/100, p_ind 4/7, MSE: 7.624
+OMP as a function p: experiment 67/100, p_ind 5/7, MSE: 7.310
+OMP as a function p: experiment 67/100, p_ind 6/7, MSE: 6.229
+OMP as a function p: experiment 67/100, p_ind 7/7, MSE: 5.066
+OMP as a function p: experiment 68/100, p_ind 1/7, MSE: 17.685
+OMP as a function p: experiment 68/100, p_ind 2/7, MSE: 12.551
+OMP as a function p: experiment 68/100, p_ind 3/7, MSE: 11.088
+OMP as a function p: experiment 68/100, p_ind 4/7, MSE: 7.639
+OMP as a function p: experiment 68/100, p_ind 5/7, MSE: 7.326
+OMP as a function p: experiment 68/100, p_ind 6/7, MSE: 6.243
+OMP as a function p: experiment 68/100, p_ind 7/7, MSE: 5.080
+OMP as a function p: experiment 69/100, p_ind 1/7, MSE: 17.687
+OMP as a function p: experiment 69/100, p_ind 2/7, MSE: 12.552
+OMP as a function p: experiment 69/100, p_ind 3/7, MSE: 11.089
+OMP as a function p: experiment 69/100, p_ind 4/7, MSE: 7.641
+OMP as a function p: experiment 69/100, p_ind 5/7, MSE: 7.515
+OMP as a function p: experiment 69/100, p_ind 6/7, MSE: 6.431
+OMP as a function p: experiment 69/100, p_ind 7/7, MSE: 5.267
+OMP as a function p: experiment 70/100, p_ind 1/7, MSE: 17.723
+OMP as a function p: experiment 70/100, p_ind 2/7, MSE: 12.577
+OMP as a function p: experiment 70/100, p_ind 3/7, MSE: 11.099
+OMP as a function p: experiment 70/100, p_ind 4/7, MSE: 7.653
+OMP as a function p: experiment 70/100, p_ind 5/7, MSE: 7.547
+OMP as a function p: experiment 70/100, p_ind 6/7, MSE: 6.443
+OMP as a function p: experiment 70/100, p_ind 7/7, MSE: 5.276
+OMP as a function p: experiment 71/100, p_ind 1/7, MSE: 17.731
+OMP as a function p: experiment 71/100, p_ind 2/7, MSE: 12.587
+OMP as a function p: experiment 71/100, p_ind 3/7, MSE: 11.103
+OMP as a function p: experiment 71/100, p_ind 4/7, MSE: 7.655
+OMP as a function p: experiment 71/100, p_ind 5/7, MSE: 7.549
+OMP as a function p: experiment 71/100, p_ind 6/7, MSE: 6.444
+OMP as a function p: experiment 71/100, p_ind 7/7, MSE: 5.277
+OMP as a function p: experiment 72/100, p_ind 1/7, MSE: 17.752
+OMP as a function p: experiment 72/100, p_ind 2/7, MSE: 12.602
+OMP as a function p: experiment 72/100, p_ind 3/7, MSE: 11.120
+OMP as a function p: experiment 72/100, p_ind 4/7, MSE: 7.674
+OMP as a function p: experiment 72/100, p_ind 5/7, MSE: 7.562
+OMP as a function p: experiment 72/100, p_ind 6/7, MSE: 6.457
+OMP as a function p: experiment 72/100, p_ind 7/7, MSE: 5.288
+OMP as a function p: experiment 73/100, p_ind 1/7, MSE: 17.795
+OMP as a function p: experiment 73/100, p_ind 2/7, MSE: 12.641
+OMP as a function p: experiment 73/100, p_ind 3/7, MSE: 11.151
+OMP as a function p: experiment 73/100, p_ind 4/7, MSE: 7.697
+OMP as a function p: experiment 73/100, p_ind 5/7, MSE: 7.581
+OMP as a function p: experiment 73/100, p_ind 6/7, MSE: 6.474
+OMP as a function p: experiment 73/100, p_ind 7/7, MSE: 5.299
+OMP as a function p: experiment 74/100, p_ind 1/7, MSE: 18.375
+OMP as a function p: experiment 74/100, p_ind 2/7, MSE: 13.362
+OMP as a function p: experiment 74/100, p_ind 3/7, MSE: 11.685
+OMP as a function p: experiment 74/100, p_ind 4/7, MSE: 8.223
+OMP as a function p: experiment 74/100, p_ind 5/7, MSE: 8.013
+OMP as a function p: experiment 74/100, p_ind 6/7, MSE: 6.897
+OMP as a function p: experiment 74/100, p_ind 7/7, MSE: 5.722
+OMP as a function p: experiment 75/100, p_ind 1/7, MSE: 18.492
+OMP as a function p: experiment 75/100, p_ind 2/7, MSE: 13.500
+OMP as a function p: experiment 75/100, p_ind 3/7, MSE: 11.803
+OMP as a function p: experiment 75/100, p_ind 4/7, MSE: 8.342
+OMP as a function p: experiment 75/100, p_ind 5/7, MSE: 8.130
+OMP as a function p: experiment 75/100, p_ind 6/7, MSE: 7.014
+OMP as a function p: experiment 75/100, p_ind 7/7, MSE: 5.837
+OMP as a function p: experiment 76/100, p_ind 1/7, MSE: 18.515
+OMP as a function p: experiment 76/100, p_ind 2/7, MSE: 13.521
+OMP as a function p: experiment 76/100, p_ind 3/7, MSE: 11.818
+OMP as a function p: experiment 76/100, p_ind 4/7, MSE: 8.360
+OMP as a function p: experiment 76/100, p_ind 5/7, MSE: 8.146
+OMP as a function p: experiment 76/100, p_ind 6/7, MSE: 7.026
+OMP as a function p: experiment 76/100, p_ind 7/7, MSE: 5.844
+OMP as a function p: experiment 77/100, p_ind 1/7, MSE: 18.574
+OMP as a function p: experiment 77/100, p_ind 2/7, MSE: 13.578
+OMP as a function p: experiment 77/100, p_ind 3/7, MSE: 11.865
+OMP as a function p: experiment 77/100, p_ind 4/7, MSE: 8.611
+OMP as a function p: experiment 77/100, p_ind 5/7, MSE: 8.159
+OMP as a function p: experiment 77/100, p_ind 6/7, MSE: 7.036
+OMP as a function p: experiment 77/100, p_ind 7/7, MSE: 5.851
+OMP as a function p: experiment 78/100, p_ind 1/7, MSE: 18.608
+OMP as a function p: experiment 78/100, p_ind 2/7, MSE: 14.066
+OMP as a function p: experiment 78/100, p_ind 3/7, MSE: 12.455
+OMP as a function p: experiment 78/100, p_ind 4/7, MSE: 8.619
+OMP as a function p: experiment 78/100, p_ind 5/7, MSE: 8.636
+OMP as a function p: experiment 78/100, p_ind 6/7, MSE: 7.869
+OMP as a function p: experiment 78/100, p_ind 7/7, MSE: 6.701
+OMP as a function p: experiment 79/100, p_ind 1/7, MSE: 19.539
+OMP as a function p: experiment 79/100, p_ind 2/7, MSE: 15.056
+OMP as a function p: experiment 79/100, p_ind 3/7, MSE: 13.370
+OMP as a function p: experiment 79/100, p_ind 4/7, MSE: 8.626
+OMP as a function p: experiment 79/100, p_ind 5/7, MSE: 8.642
+OMP as a function p: experiment 79/100, p_ind 6/7, MSE: 7.873
+OMP as a function p: experiment 79/100, p_ind 7/7, MSE: 6.704
+OMP as a function p: experiment 80/100, p_ind 1/7, MSE: 19.555
+OMP as a function p: experiment 80/100, p_ind 2/7, MSE: 15.078
+OMP as a function p: experiment 80/100, p_ind 3/7, MSE: 13.387
+OMP as a function p: experiment 80/100, p_ind 4/7, MSE: 8.641
+OMP as a function p: experiment 80/100, p_ind 5/7, MSE: 8.665
+OMP as a function p: experiment 80/100, p_ind 6/7, MSE: 7.894
+OMP as a function p: experiment 80/100, p_ind 7/7, MSE: 6.724
+OMP as a function p: experiment 81/100, p_ind 1/7, MSE: 19.579
+OMP as a function p: experiment 81/100, p_ind 2/7, MSE: 15.104
+OMP as a function p: experiment 81/100, p_ind 3/7, MSE: 13.411
+OMP as a function p: experiment 81/100, p_ind 4/7, MSE: 8.665
+OMP as a function p: experiment 81/100, p_ind 5/7, MSE: 8.686
+OMP as a function p: experiment 81/100, p_ind 6/7, MSE: 7.909
+OMP as a function p: experiment 81/100, p_ind 7/7, MSE: 6.732
+OMP as a function p: experiment 82/100, p_ind 1/7, MSE: 19.629
+OMP as a function p: experiment 82/100, p_ind 2/7, MSE: 15.160
+OMP as a function p: experiment 82/100, p_ind 3/7, MSE: 13.464
+OMP as a function p: experiment 82/100, p_ind 4/7, MSE: 8.691
+OMP as a function p: experiment 82/100, p_ind 5/7, MSE: 8.722
+OMP as a function p: experiment 82/100, p_ind 6/7, MSE: 7.947
+OMP as a function p: experiment 82/100, p_ind 7/7, MSE: 6.759
+OMP as a function p: experiment 83/100, p_ind 1/7, MSE: 19.645
+OMP as a function p: experiment 83/100, p_ind 2/7, MSE: 15.179
+OMP as a function p: experiment 83/100, p_ind 3/7, MSE: 13.479
+OMP as a function p: experiment 83/100, p_ind 4/7, MSE: 8.705
+OMP as a function p: experiment 83/100, p_ind 5/7, MSE: 8.732
+OMP as a function p: experiment 83/100, p_ind 6/7, MSE: 7.959
+OMP as a function p: experiment 83/100, p_ind 7/7, MSE: 6.771
+OMP as a function p: experiment 84/100, p_ind 1/7, MSE: 20.432
+OMP as a function p: experiment 84/100, p_ind 2/7, MSE: 15.967
+OMP as a function p: experiment 84/100, p_ind 3/7, MSE: 13.904
+OMP as a function p: experiment 84/100, p_ind 4/7, MSE: 8.708
+OMP as a function p: experiment 84/100, p_ind 5/7, MSE: 8.734
+OMP as a function p: experiment 84/100, p_ind 6/7, MSE: 7.961
+OMP as a function p: experiment 84/100, p_ind 7/7, MSE: 6.772
+OMP as a function p: experiment 85/100, p_ind 1/7, MSE: 20.441
+OMP as a function p: experiment 85/100, p_ind 2/7, MSE: 15.973
+OMP as a function p: experiment 85/100, p_ind 3/7, MSE: 13.909
+OMP as a function p: experiment 85/100, p_ind 4/7, MSE: 8.710
+OMP as a function p: experiment 85/100, p_ind 5/7, MSE: 8.736
+OMP as a function p: experiment 85/100, p_ind 6/7, MSE: 7.963
+OMP as a function p: experiment 85/100, p_ind 7/7, MSE: 6.775
+OMP as a function p: experiment 86/100, p_ind 1/7, MSE: 20.580
+OMP as a function p: experiment 86/100, p_ind 2/7, MSE: 16.005
+OMP as a function p: experiment 86/100, p_ind 3/7, MSE: 13.933
+OMP as a function p: experiment 86/100, p_ind 4/7, MSE: 8.733
+OMP as a function p: experiment 86/100, p_ind 5/7, MSE: 8.756
+OMP as a function p: experiment 86/100, p_ind 6/7, MSE: 7.979
+OMP as a function p: experiment 86/100, p_ind 7/7, MSE: 6.792
+OMP as a function p: experiment 87/100, p_ind 1/7, MSE: 20.640
+OMP as a function p: experiment 87/100, p_ind 2/7, MSE: 16.094
+OMP as a function p: experiment 87/100, p_ind 3/7, MSE: 14.023
+OMP as a function p: experiment 87/100, p_ind 4/7, MSE: 8.811
+OMP as a function p: experiment 87/100, p_ind 5/7, MSE: 8.818
+OMP as a function p: experiment 87/100, p_ind 6/7, MSE: 8.050
+OMP as a function p: experiment 87/100, p_ind 7/7, MSE: 6.795
+OMP as a function p: experiment 88/100, p_ind 1/7, MSE: 21.805
+OMP as a function p: experiment 88/100, p_ind 2/7, MSE: 17.285
+OMP as a function p: experiment 88/100, p_ind 3/7, MSE: 14.539
+OMP as a function p: experiment 88/100, p_ind 4/7, MSE: 8.841
+OMP as a function p: experiment 88/100, p_ind 5/7, MSE: 8.847
+OMP as a function p: experiment 88/100, p_ind 6/7, MSE: 8.080
+OMP as a function p: experiment 88/100, p_ind 7/7, MSE: 7.481
+OMP as a function p: experiment 89/100, p_ind 1/7, MSE: 21.808
+OMP as a function p: experiment 89/100, p_ind 2/7, MSE: 17.998
+OMP as a function p: experiment 89/100, p_ind 3/7, MSE: 14.541
+OMP as a function p: experiment 89/100, p_ind 4/7, MSE: 8.842
+OMP as a function p: experiment 89/100, p_ind 5/7, MSE: 8.848
+OMP as a function p: experiment 89/100, p_ind 6/7, MSE: 8.080
+OMP as a function p: experiment 89/100, p_ind 7/7, MSE: 7.482
+OMP as a function p: experiment 90/100, p_ind 1/7, MSE: 21.810
+OMP as a function p: experiment 90/100, p_ind 2/7, MSE: 18.000
+OMP as a function p: experiment 90/100, p_ind 3/7, MSE: 14.543
+OMP as a function p: experiment 90/100, p_ind 4/7, MSE: 8.843
+OMP as a function p: experiment 90/100, p_ind 5/7, MSE: 8.849
+OMP as a function p: experiment 90/100, p_ind 6/7, MSE: 8.084
+OMP as a function p: experiment 90/100, p_ind 7/7, MSE: 7.484
+OMP as a function p: experiment 91/100, p_ind 1/7, MSE: 21.841
+OMP as a function p: experiment 91/100, p_ind 2/7, MSE: 18.034
+OMP as a function p: experiment 91/100, p_ind 3/7, MSE: 14.585
+OMP as a function p: experiment 91/100, p_ind 4/7, MSE: 8.873
+OMP as a function p: experiment 91/100, p_ind 5/7, MSE: 8.876
+OMP as a function p: experiment 91/100, p_ind 6/7, MSE: 8.097
+OMP as a function p: experiment 91/100, p_ind 7/7, MSE: 7.502
+OMP as a function p: experiment 92/100, p_ind 1/7, MSE: 21.846
+OMP as a function p: experiment 92/100, p_ind 2/7, MSE: 18.039
+OMP as a function p: experiment 92/100, p_ind 3/7, MSE: 14.588
+OMP as a function p: experiment 92/100, p_ind 4/7, MSE: 8.876
+OMP as a function p: experiment 92/100, p_ind 5/7, MSE: 8.878
+OMP as a function p: experiment 92/100, p_ind 6/7, MSE: 8.099
+OMP as a function p: experiment 92/100, p_ind 7/7, MSE: 7.504
+OMP as a function p: experiment 93/100, p_ind 1/7, MSE: 21.895
+OMP as a function p: experiment 93/100, p_ind 2/7, MSE: 18.085
+OMP as a function p: experiment 93/100, p_ind 3/7, MSE: 14.631
+OMP as a function p: experiment 93/100, p_ind 4/7, MSE: 8.913
+OMP as a function p: experiment 93/100, p_ind 5/7, MSE: 8.912
+OMP as a function p: experiment 93/100, p_ind 6/7, MSE: 8.127
+OMP as a function p: experiment 93/100, p_ind 7/7, MSE: 7.505
+OMP as a function p: experiment 94/100, p_ind 1/7, MSE: 21.934
+OMP as a function p: experiment 94/100, p_ind 2/7, MSE: 18.123
+OMP as a function p: experiment 94/100, p_ind 3/7, MSE: 14.649
+OMP as a function p: experiment 94/100, p_ind 4/7, MSE: 8.924
+OMP as a function p: experiment 94/100, p_ind 5/7, MSE: 8.921
+OMP as a function p: experiment 94/100, p_ind 6/7, MSE: 8.134
+OMP as a function p: experiment 94/100, p_ind 7/7, MSE: 7.512
+OMP as a function p: experiment 95/100, p_ind 1/7, MSE: 21.957
+OMP as a function p: experiment 95/100, p_ind 2/7, MSE: 18.144
+OMP as a function p: experiment 95/100, p_ind 3/7, MSE: 14.666
+OMP as a function p: experiment 95/100, p_ind 4/7, MSE: 8.937
+OMP as a function p: experiment 95/100, p_ind 5/7, MSE: 8.926
+OMP as a function p: experiment 95/100, p_ind 6/7, MSE: 8.141
+OMP as a function p: experiment 95/100, p_ind 7/7, MSE: 7.518
+OMP as a function p: experiment 96/100, p_ind 1/7, MSE: 21.957
+OMP as a function p: experiment 96/100, p_ind 2/7, MSE: 18.145
+OMP as a function p: experiment 96/100, p_ind 3/7, MSE: 14.668
+OMP as a function p: experiment 96/100, p_ind 4/7, MSE: 8.940
+OMP as a function p: experiment 96/100, p_ind 5/7, MSE: 8.929
+OMP as a function p: experiment 96/100, p_ind 6/7, MSE: 8.143
+OMP as a function p: experiment 96/100, p_ind 7/7, MSE: 7.521
+OMP as a function p: experiment 97/100, p_ind 1/7, MSE: 23.703
+OMP as a function p: experiment 97/100, p_ind 2/7, MSE: 19.618
+OMP as a function p: experiment 97/100, p_ind 3/7, MSE: 16.014
+OMP as a function p: experiment 97/100, p_ind 4/7, MSE: 10.294
+OMP as a function p: experiment 97/100, p_ind 5/7, MSE: 10.279
+OMP as a function p: experiment 97/100, p_ind 6/7, MSE: 9.490
+OMP as a function p: experiment 97/100, p_ind 7/7, MSE: 8.865
+OMP as a function p: experiment 98/100, p_ind 1/7, MSE: 23.706
+OMP as a function p: experiment 98/100, p_ind 2/7, MSE: 19.622
+OMP as a function p: experiment 98/100, p_ind 3/7, MSE: 16.018
+OMP as a function p: experiment 98/100, p_ind 4/7, MSE: 10.296
+OMP as a function p: experiment 98/100, p_ind 5/7, MSE: 10.282
+OMP as a function p: experiment 98/100, p_ind 6/7, MSE: 9.492
+OMP as a function p: experiment 98/100, p_ind 7/7, MSE: 8.866
+OMP as a function p: experiment 99/100, p_ind 1/7, MSE: 23.862
+OMP as a function p: experiment 99/100, p_ind 2/7, MSE: 19.667
+OMP as a function p: experiment 99/100, p_ind 3/7, MSE: 16.031
+OMP as a function p: experiment 99/100, p_ind 4/7, MSE: 10.304
+OMP as a function p: experiment 99/100, p_ind 5/7, MSE: 10.287
+OMP as a function p: experiment 99/100, p_ind 6/7, MSE: 9.496
+OMP as a function p: experiment 99/100, p_ind 7/7, MSE: 8.869
+OMP as a function p: experiment 100/100, p_ind 1/7, MSE: 23.873
+OMP as a function p: experiment 100/100, p_ind 2/7, MSE: 19.673
+OMP as a function p: experiment 100/100, p_ind 3/7, MSE: 16.034
+OMP as a function p: experiment 100/100, p_ind 4/7, MSE: 10.307
+OMP as a function p: experiment 100/100, p_ind 5/7, MSE: 10.289
+OMP as a function p: experiment 100/100, p_ind 6/7, MSE: 9.499
+OMP as a function p: experiment 100/100, p_ind 7/7, MSE: 8.872
+OMP as a function sigma: experiment 1/100, sigma_ind 1/10, MSE: 0.047
+OMP as a function sigma: experiment 1/100, sigma_ind 2/10, MSE: 0.044
+OMP as a function sigma: experiment 1/100, sigma_ind 3/10, MSE: 0.045
+OMP as a function sigma: experiment 1/100, sigma_ind 4/10, MSE: 0.075
+OMP as a function sigma: experiment 1/100, sigma_ind 5/10, MSE: 0.068
+OMP as a function sigma: experiment 1/100, sigma_ind 6/10, MSE: 0.064
+OMP as a function sigma: experiment 1/100, sigma_ind 7/10, MSE: 0.061
+OMP as a function sigma: experiment 1/100, sigma_ind 8/10, MSE: 0.058
+OMP as a function sigma: experiment 1/100, sigma_ind 9/10, MSE: 0.057
+OMP as a function sigma: experiment 1/100, sigma_ind 10/10, MSE: 0.055
+OMP as a function sigma: experiment 2/100, sigma_ind 1/10, MSE: 0.070
+OMP as a function sigma: experiment 2/100, sigma_ind 2/10, MSE: 0.066
+OMP as a function sigma: experiment 2/100, sigma_ind 3/10, MSE: 0.067
+OMP as a function sigma: experiment 2/100, sigma_ind 4/10, MSE: 0.111
+OMP as a function sigma: experiment 2/100, sigma_ind 5/10, MSE: 0.101
+OMP as a function sigma: experiment 2/100, sigma_ind 6/10, MSE: 0.094
+OMP as a function sigma: experiment 2/100, sigma_ind 7/10, MSE: 0.088
+OMP as a function sigma: experiment 2/100, sigma_ind 8/10, MSE: 0.084
+OMP as a function sigma: experiment 2/100, sigma_ind 9/10, MSE: 0.086
+OMP as a function sigma: experiment 2/100, sigma_ind 10/10, MSE: 0.083
+OMP as a function sigma: experiment 3/100, sigma_ind 1/10, MSE: 0.150
+OMP as a function sigma: experiment 3/100, sigma_ind 2/10, MSE: 0.123
+OMP as a function sigma: experiment 3/100, sigma_ind 3/10, MSE: 0.094
+OMP as a function sigma: experiment 3/100, sigma_ind 4/10, MSE: 0.160
+OMP as a function sigma: experiment 3/100, sigma_ind 5/10, MSE: 0.141
+OMP as a function sigma: experiment 3/100, sigma_ind 6/10, MSE: 0.140
+OMP as a function sigma: experiment 3/100, sigma_ind 7/10, MSE: 0.127
+OMP as a function sigma: experiment 3/100, sigma_ind 8/10, MSE: 0.129
+OMP as a function sigma: experiment 3/100, sigma_ind 9/10, MSE: 0.127
+OMP as a function sigma: experiment 3/100, sigma_ind 10/10, MSE: 0.127
+OMP as a function sigma: experiment 4/100, sigma_ind 1/10, MSE: 0.175
+OMP as a function sigma: experiment 4/100, sigma_ind 2/10, MSE: 0.144
+OMP as a function sigma: experiment 4/100, sigma_ind 3/10, MSE: 0.113
+OMP as a function sigma: experiment 4/100, sigma_ind 4/10, MSE: 0.179
+OMP as a function sigma: experiment 4/100, sigma_ind 5/10, MSE: 0.167
+OMP as a function sigma: experiment 4/100, sigma_ind 6/10, MSE: 0.178
+OMP as a function sigma: experiment 4/100, sigma_ind 7/10, MSE: 0.162
+OMP as a function sigma: experiment 4/100, sigma_ind 8/10, MSE: 0.178
+OMP as a function sigma: experiment 4/100, sigma_ind 9/10, MSE: 0.172
+OMP as a function sigma: experiment 4/100, sigma_ind 10/10, MSE: 0.168
+OMP as a function sigma: experiment 5/100, sigma_ind 1/10, MSE: 0.216
+OMP as a function sigma: experiment 5/100, sigma_ind 2/10, MSE: 0.195
+OMP as a function sigma: experiment 5/100, sigma_ind 3/10, MSE: 0.154
+OMP as a function sigma: experiment 5/100, sigma_ind 4/10, MSE: 0.214
+OMP as a function sigma: experiment 5/100, sigma_ind 5/10, MSE: 0.198
+OMP as a function sigma: experiment 5/100, sigma_ind 6/10, MSE: 0.206
+OMP as a function sigma: experiment 5/100, sigma_ind 7/10, MSE: 0.205
+OMP as a function sigma: experiment 5/100, sigma_ind 8/10, MSE: 0.221
+OMP as a function sigma: experiment 5/100, sigma_ind 9/10, MSE: 0.213
+OMP as a function sigma: experiment 5/100, sigma_ind 10/10, MSE: 0.217
+OMP as a function sigma: experiment 6/100, sigma_ind 1/10, MSE: 0.294
+OMP as a function sigma: experiment 6/100, sigma_ind 2/10, MSE: 0.248
+OMP as a function sigma: experiment 6/100, sigma_ind 3/10, MSE: 0.193
+OMP as a function sigma: experiment 6/100, sigma_ind 4/10, MSE: 0.253
+OMP as a function sigma: experiment 6/100, sigma_ind 5/10, MSE: 0.259
+OMP as a function sigma: experiment 6/100, sigma_ind 6/10, MSE: 0.250
+OMP as a function sigma: experiment 6/100, sigma_ind 7/10, MSE: 0.278
+OMP as a function sigma: experiment 6/100, sigma_ind 8/10, MSE: 0.287
+OMP as a function sigma: experiment 6/100, sigma_ind 9/10, MSE: 0.275
+OMP as a function sigma: experiment 6/100, sigma_ind 10/10, MSE: 0.275
+OMP as a function sigma: experiment 7/100, sigma_ind 1/10, MSE: 0.304
+OMP as a function sigma: experiment 7/100, sigma_ind 2/10, MSE: 0.267
+OMP as a function sigma: experiment 7/100, sigma_ind 3/10, MSE: 0.255
+OMP as a function sigma: experiment 7/100, sigma_ind 4/10, MSE: 0.307
+OMP as a function sigma: experiment 7/100, sigma_ind 5/10, MSE: 0.334
+OMP as a function sigma: experiment 7/100, sigma_ind 6/10, MSE: 0.316
+OMP as a function sigma: experiment 7/100, sigma_ind 7/10, MSE: 0.339
+OMP as a function sigma: experiment 7/100, sigma_ind 8/10, MSE: 0.345
+OMP as a function sigma: experiment 7/100, sigma_ind 9/10, MSE: 0.330
+OMP as a function sigma: experiment 7/100, sigma_ind 10/10, MSE: 0.334
+OMP as a function sigma: experiment 8/100, sigma_ind 1/10, MSE: 0.346
+OMP as a function sigma: experiment 8/100, sigma_ind 2/10, MSE: 0.316
+OMP as a function sigma: experiment 8/100, sigma_ind 3/10, MSE: 0.387
+OMP as a function sigma: experiment 8/100, sigma_ind 4/10, MSE: 0.415
+OMP as a function sigma: experiment 8/100, sigma_ind 5/10, MSE: 0.426
+OMP as a function sigma: experiment 8/100, sigma_ind 6/10, MSE: 0.397
+OMP as a function sigma: experiment 8/100, sigma_ind 7/10, MSE: 0.412
+OMP as a function sigma: experiment 8/100, sigma_ind 8/10, MSE: 0.412
+OMP as a function sigma: experiment 8/100, sigma_ind 9/10, MSE: 0.392
+OMP as a function sigma: experiment 8/100, sigma_ind 10/10, MSE: 0.392
+OMP as a function sigma: experiment 9/100, sigma_ind 1/10, MSE: 0.665
+OMP as a function sigma: experiment 9/100, sigma_ind 2/10, MSE: 0.594
+OMP as a function sigma: experiment 9/100, sigma_ind 3/10, MSE: 0.581
+OMP as a function sigma: experiment 9/100, sigma_ind 4/10, MSE: 0.574
+OMP as a function sigma: experiment 9/100, sigma_ind 5/10, MSE: 0.548
+OMP as a function sigma: experiment 9/100, sigma_ind 6/10, MSE: 0.529
+OMP as a function sigma: experiment 9/100, sigma_ind 7/10, MSE: 0.520
+OMP as a function sigma: experiment 9/100, sigma_ind 8/10, MSE: 0.517
+OMP as a function sigma: experiment 9/100, sigma_ind 9/10, MSE: 0.484
+OMP as a function sigma: experiment 9/100, sigma_ind 10/10, MSE: 0.525
+OMP as a function sigma: experiment 10/100, sigma_ind 1/10, MSE: 0.672
+OMP as a function sigma: experiment 10/100, sigma_ind 2/10, MSE: 0.641
+OMP as a function sigma: experiment 10/100, sigma_ind 3/10, MSE: 0.620
+OMP as a function sigma: experiment 10/100, sigma_ind 4/10, MSE: 0.629
+OMP as a function sigma: experiment 10/100, sigma_ind 5/10, MSE: 0.597
+OMP as a function sigma: experiment 10/100, sigma_ind 6/10, MSE: 0.575
+OMP as a function sigma: experiment 10/100, sigma_ind 7/10, MSE: 0.562
+OMP as a function sigma: experiment 10/100, sigma_ind 8/10, MSE: 0.557
+OMP as a function sigma: experiment 10/100, sigma_ind 9/10, MSE: 0.523
+OMP as a function sigma: experiment 10/100, sigma_ind 10/10, MSE: 0.562
+OMP as a function sigma: experiment 11/100, sigma_ind 1/10, MSE: 0.697
+OMP as a function sigma: experiment 11/100, sigma_ind 2/10, MSE: 0.666
+OMP as a function sigma: experiment 11/100, sigma_ind 3/10, MSE: 0.644
+OMP as a function sigma: experiment 11/100, sigma_ind 4/10, MSE: 0.653
+OMP as a function sigma: experiment 11/100, sigma_ind 5/10, MSE: 0.621
+OMP as a function sigma: experiment 11/100, sigma_ind 6/10, MSE: 0.598
+OMP as a function sigma: experiment 11/100, sigma_ind 7/10, MSE: 0.602
+OMP as a function sigma: experiment 11/100, sigma_ind 8/10, MSE: 0.594
+OMP as a function sigma: experiment 11/100, sigma_ind 9/10, MSE: 0.568
+OMP as a function sigma: experiment 11/100, sigma_ind 10/10, MSE: 0.605
+OMP as a function sigma: experiment 12/100, sigma_ind 1/10, MSE: 0.732
+OMP as a function sigma: experiment 12/100, sigma_ind 2/10, MSE: 0.698
+OMP as a function sigma: experiment 12/100, sigma_ind 3/10, MSE: 0.675
+OMP as a function sigma: experiment 12/100, sigma_ind 4/10, MSE: 0.695
+OMP as a function sigma: experiment 12/100, sigma_ind 5/10, MSE: 0.698
+OMP as a function sigma: experiment 12/100, sigma_ind 6/10, MSE: 0.667
+OMP as a function sigma: experiment 12/100, sigma_ind 7/10, MSE: 0.665
+OMP as a function sigma: experiment 12/100, sigma_ind 8/10, MSE: 0.653
+OMP as a function sigma: experiment 12/100, sigma_ind 9/10, MSE: 0.624
+OMP as a function sigma: experiment 12/100, sigma_ind 10/10, MSE: 0.658
+OMP as a function sigma: experiment 13/100, sigma_ind 1/10, MSE: 0.755
+OMP as a function sigma: experiment 13/100, sigma_ind 2/10, MSE: 0.729
+OMP as a function sigma: experiment 13/100, sigma_ind 3/10, MSE: 0.717
+OMP as a function sigma: experiment 13/100, sigma_ind 4/10, MSE: 0.734
+OMP as a function sigma: experiment 13/100, sigma_ind 5/10, MSE: 0.732
+OMP as a function sigma: experiment 13/100, sigma_ind 6/10, MSE: 0.698
+OMP as a function sigma: experiment 13/100, sigma_ind 7/10, MSE: 0.691
+OMP as a function sigma: experiment 13/100, sigma_ind 8/10, MSE: 0.678
+OMP as a function sigma: experiment 13/100, sigma_ind 9/10, MSE: 0.659
+OMP as a function sigma: experiment 13/100, sigma_ind 10/10, MSE: 0.691
+OMP as a function sigma: experiment 14/100, sigma_ind 1/10, MSE: 0.809
+OMP as a function sigma: experiment 14/100, sigma_ind 2/10, MSE: 0.769
+OMP as a function sigma: experiment 14/100, sigma_ind 3/10, MSE: 0.776
+OMP as a function sigma: experiment 14/100, sigma_ind 4/10, MSE: 0.790
+OMP as a function sigma: experiment 14/100, sigma_ind 5/10, MSE: 0.784
+OMP as a function sigma: experiment 14/100, sigma_ind 6/10, MSE: 0.746
+OMP as a function sigma: experiment 14/100, sigma_ind 7/10, MSE: 0.737
+OMP as a function sigma: experiment 14/100, sigma_ind 8/10, MSE: 0.721
+OMP as a function sigma: experiment 14/100, sigma_ind 9/10, MSE: 0.700
+OMP as a function sigma: experiment 14/100, sigma_ind 10/10, MSE: 0.740
+OMP as a function sigma: experiment 15/100, sigma_ind 1/10, MSE: 0.827
+OMP as a function sigma: experiment 15/100, sigma_ind 2/10, MSE: 0.813
+OMP as a function sigma: experiment 15/100, sigma_ind 3/10, MSE: 0.812
+OMP as a function sigma: experiment 15/100, sigma_ind 4/10, MSE: 0.821
+OMP as a function sigma: experiment 15/100, sigma_ind 5/10, MSE: 0.811
+OMP as a function sigma: experiment 15/100, sigma_ind 6/10, MSE: 0.786
+OMP as a function sigma: experiment 15/100, sigma_ind 7/10, MSE: 0.773
+OMP as a function sigma: experiment 15/100, sigma_ind 8/10, MSE: 0.755
+OMP as a function sigma: experiment 15/100, sigma_ind 9/10, MSE: 0.732
+OMP as a function sigma: experiment 15/100, sigma_ind 10/10, MSE: 0.770
+OMP as a function sigma: experiment 16/100, sigma_ind 1/10, MSE: 0.860
+OMP as a function sigma: experiment 16/100, sigma_ind 2/10, MSE: 0.851
+OMP as a function sigma: experiment 16/100, sigma_ind 3/10, MSE: 0.845
+OMP as a function sigma: experiment 16/100, sigma_ind 4/10, MSE: 0.850
+OMP as a function sigma: experiment 16/100, sigma_ind 5/10, MSE: 0.838
+OMP as a function sigma: experiment 16/100, sigma_ind 6/10, MSE: 0.819
+OMP as a function sigma: experiment 16/100, sigma_ind 7/10, MSE: 0.811
+OMP as a function sigma: experiment 16/100, sigma_ind 8/10, MSE: 0.793
+OMP as a function sigma: experiment 16/100, sigma_ind 9/10, MSE: 0.777
+OMP as a function sigma: experiment 16/100, sigma_ind 10/10, MSE: 0.817
+OMP as a function sigma: experiment 17/100, sigma_ind 1/10, MSE: 0.968
+OMP as a function sigma: experiment 17/100, sigma_ind 2/10, MSE: 0.930
+OMP as a function sigma: experiment 17/100, sigma_ind 3/10, MSE: 0.857
+OMP as a function sigma: experiment 17/100, sigma_ind 4/10, MSE: 0.929
+OMP as a function sigma: experiment 17/100, sigma_ind 5/10, MSE: 0.903
+OMP as a function sigma: experiment 17/100, sigma_ind 6/10, MSE: 0.898
+OMP as a function sigma: experiment 17/100, sigma_ind 7/10, MSE: 0.908
+OMP as a function sigma: experiment 17/100, sigma_ind 8/10, MSE: 0.879
+OMP as a function sigma: experiment 17/100, sigma_ind 9/10, MSE: 0.866
+OMP as a function sigma: experiment 17/100, sigma_ind 10/10, MSE: 0.900
+OMP as a function sigma: experiment 18/100, sigma_ind 1/10, MSE: 1.062
+OMP as a function sigma: experiment 18/100, sigma_ind 2/10, MSE: 1.063
+OMP as a function sigma: experiment 18/100, sigma_ind 3/10, MSE: 0.958
+OMP as a function sigma: experiment 18/100, sigma_ind 4/10, MSE: 1.012
+OMP as a function sigma: experiment 18/100, sigma_ind 5/10, MSE: 0.978
+OMP as a function sigma: experiment 18/100, sigma_ind 6/10, MSE: 0.964
+OMP as a function sigma: experiment 18/100, sigma_ind 7/10, MSE: 0.968
+OMP as a function sigma: experiment 18/100, sigma_ind 8/10, MSE: 0.938
+OMP as a function sigma: experiment 18/100, sigma_ind 9/10, MSE: 0.921
+OMP as a function sigma: experiment 18/100, sigma_ind 10/10, MSE: 0.953
+OMP as a function sigma: experiment 19/100, sigma_ind 1/10, MSE: 1.117
+OMP as a function sigma: experiment 19/100, sigma_ind 2/10, MSE: 1.122
+OMP as a function sigma: experiment 19/100, sigma_ind 3/10, MSE: 1.035
+OMP as a function sigma: experiment 19/100, sigma_ind 4/10, MSE: 1.079
+OMP as a function sigma: experiment 19/100, sigma_ind 5/10, MSE: 1.036
+OMP as a function sigma: experiment 19/100, sigma_ind 6/10, MSE: 1.018
+OMP as a function sigma: experiment 19/100, sigma_ind 7/10, MSE: 1.019
+OMP as a function sigma: experiment 19/100, sigma_ind 8/10, MSE: 0.987
+OMP as a function sigma: experiment 19/100, sigma_ind 9/10, MSE: 0.973
+OMP as a function sigma: experiment 19/100, sigma_ind 10/10, MSE: 1.003
+OMP as a function sigma: experiment 20/100, sigma_ind 1/10, MSE: 1.166
+OMP as a function sigma: experiment 20/100, sigma_ind 2/10, MSE: 1.163
+OMP as a function sigma: experiment 20/100, sigma_ind 3/10, MSE: 1.111
+OMP as a function sigma: experiment 20/100, sigma_ind 4/10, MSE: 1.145
+OMP as a function sigma: experiment 20/100, sigma_ind 5/10, MSE: 1.097
+OMP as a function sigma: experiment 20/100, sigma_ind 6/10, MSE: 1.075
+OMP as a function sigma: experiment 20/100, sigma_ind 7/10, MSE: 1.084
+OMP as a function sigma: experiment 20/100, sigma_ind 8/10, MSE: 1.049
+OMP as a function sigma: experiment 20/100, sigma_ind 9/10, MSE: 1.041
+OMP as a function sigma: experiment 20/100, sigma_ind 10/10, MSE: 1.069
+OMP as a function sigma: experiment 21/100, sigma_ind 1/10, MSE: 1.174
+OMP as a function sigma: experiment 21/100, sigma_ind 2/10, MSE: 1.171
+OMP as a function sigma: experiment 21/100, sigma_ind 3/10, MSE: 1.120
+OMP as a function sigma: experiment 21/100, sigma_ind 4/10, MSE: 1.155
+OMP as a function sigma: experiment 21/100, sigma_ind 5/10, MSE: 1.106
+OMP as a function sigma: experiment 21/100, sigma_ind 6/10, MSE: 1.084
+OMP as a function sigma: experiment 21/100, sigma_ind 7/10, MSE: 1.093
+OMP as a function sigma: experiment 21/100, sigma_ind 8/10, MSE: 1.058
+OMP as a function sigma: experiment 21/100, sigma_ind 9/10, MSE: 1.050
+OMP as a function sigma: experiment 21/100, sigma_ind 10/10, MSE: 1.078
+OMP as a function sigma: experiment 22/100, sigma_ind 1/10, MSE: 1.181
+OMP as a function sigma: experiment 22/100, sigma_ind 2/10, MSE: 1.199
+OMP as a function sigma: experiment 22/100, sigma_ind 3/10, MSE: 1.142
+OMP as a function sigma: experiment 22/100, sigma_ind 4/10, MSE: 1.187
+OMP as a function sigma: experiment 22/100, sigma_ind 5/10, MSE: 1.152
+OMP as a function sigma: experiment 22/100, sigma_ind 6/10, MSE: 1.123
+OMP as a function sigma: experiment 22/100, sigma_ind 7/10, MSE: 1.126
+OMP as a function sigma: experiment 22/100, sigma_ind 8/10, MSE: 1.088
+OMP as a function sigma: experiment 22/100, sigma_ind 9/10, MSE: 1.104
+OMP as a function sigma: experiment 22/100, sigma_ind 10/10, MSE: 1.127
+OMP as a function sigma: experiment 23/100, sigma_ind 1/10, MSE: 1.236
+OMP as a function sigma: experiment 23/100, sigma_ind 2/10, MSE: 1.251
+OMP as a function sigma: experiment 23/100, sigma_ind 3/10, MSE: 1.190
+OMP as a function sigma: experiment 23/100, sigma_ind 4/10, MSE: 1.228
+OMP as a function sigma: experiment 23/100, sigma_ind 5/10, MSE: 1.249
+OMP as a function sigma: experiment 23/100, sigma_ind 6/10, MSE: 1.202
+OMP as a function sigma: experiment 23/100, sigma_ind 7/10, MSE: 1.193
+OMP as a function sigma: experiment 23/100, sigma_ind 8/10, MSE: 1.157
+OMP as a function sigma: experiment 23/100, sigma_ind 9/10, MSE: 1.164
+OMP as a function sigma: experiment 23/100, sigma_ind 10/10, MSE: 1.188
+OMP as a function sigma: experiment 24/100, sigma_ind 1/10, MSE: 1.264
+OMP as a function sigma: experiment 24/100, sigma_ind 2/10, MSE: 1.276
+OMP as a function sigma: experiment 24/100, sigma_ind 3/10, MSE: 1.213
+OMP as a function sigma: experiment 24/100, sigma_ind 4/10, MSE: 1.250
+OMP as a function sigma: experiment 24/100, sigma_ind 5/10, MSE: 1.275
+OMP as a function sigma: experiment 24/100, sigma_ind 6/10, MSE: 1.243
+OMP as a function sigma: experiment 24/100, sigma_ind 7/10, MSE: 1.274
+OMP as a function sigma: experiment 24/100, sigma_ind 8/10, MSE: 1.229
+OMP as a function sigma: experiment 24/100, sigma_ind 9/10, MSE: 1.239
+OMP as a function sigma: experiment 24/100, sigma_ind 10/10, MSE: 1.272
+OMP as a function sigma: experiment 25/100, sigma_ind 1/10, MSE: 1.292
+OMP as a function sigma: experiment 25/100, sigma_ind 2/10, MSE: 1.303
+OMP as a function sigma: experiment 25/100, sigma_ind 3/10, MSE: 1.240
+OMP as a function sigma: experiment 25/100, sigma_ind 4/10, MSE: 1.277
+OMP as a function sigma: experiment 25/100, sigma_ind 5/10, MSE: 1.319
+OMP as a function sigma: experiment 25/100, sigma_ind 6/10, MSE: 1.285
+OMP as a function sigma: experiment 25/100, sigma_ind 7/10, MSE: 1.315
+OMP as a function sigma: experiment 25/100, sigma_ind 8/10, MSE: 1.269
+OMP as a function sigma: experiment 25/100, sigma_ind 9/10, MSE: 1.279
+OMP as a function sigma: experiment 25/100, sigma_ind 10/10, MSE: 1.310
+OMP as a function sigma: experiment 26/100, sigma_ind 1/10, MSE: 1.312
+OMP as a function sigma: experiment 26/100, sigma_ind 2/10, MSE: 1.321
+OMP as a function sigma: experiment 26/100, sigma_ind 3/10, MSE: 1.271
+OMP as a function sigma: experiment 26/100, sigma_ind 4/10, MSE: 1.309
+OMP as a function sigma: experiment 26/100, sigma_ind 5/10, MSE: 1.349
+OMP as a function sigma: experiment 26/100, sigma_ind 6/10, MSE: 1.314
+OMP as a function sigma: experiment 26/100, sigma_ind 7/10, MSE: 1.343
+OMP as a function sigma: experiment 26/100, sigma_ind 8/10, MSE: 1.296
+OMP as a function sigma: experiment 26/100, sigma_ind 9/10, MSE: 1.305
+OMP as a function sigma: experiment 26/100, sigma_ind 10/10, MSE: 1.336
+OMP as a function sigma: experiment 27/100, sigma_ind 1/10, MSE: 1.352
+OMP as a function sigma: experiment 27/100, sigma_ind 2/10, MSE: 1.383
+OMP as a function sigma: experiment 27/100, sigma_ind 3/10, MSE: 1.322
+OMP as a function sigma: experiment 27/100, sigma_ind 4/10, MSE: 1.373
+OMP as a function sigma: experiment 27/100, sigma_ind 5/10, MSE: 1.407
+OMP as a function sigma: experiment 27/100, sigma_ind 6/10, MSE: 1.368
+OMP as a function sigma: experiment 27/100, sigma_ind 7/10, MSE: 1.405
+OMP as a function sigma: experiment 27/100, sigma_ind 8/10, MSE: 1.356
+OMP as a function sigma: experiment 27/100, sigma_ind 9/10, MSE: 1.363
+OMP as a function sigma: experiment 27/100, sigma_ind 10/10, MSE: 1.393
+OMP as a function sigma: experiment 28/100, sigma_ind 1/10, MSE: 1.390
+OMP as a function sigma: experiment 28/100, sigma_ind 2/10, MSE: 1.411
+OMP as a function sigma: experiment 28/100, sigma_ind 3/10, MSE: 1.352
+OMP as a function sigma: experiment 28/100, sigma_ind 4/10, MSE: 1.412
+OMP as a function sigma: experiment 28/100, sigma_ind 5/10, MSE: 1.442
+OMP as a function sigma: experiment 28/100, sigma_ind 6/10, MSE: 1.417
+OMP as a function sigma: experiment 28/100, sigma_ind 7/10, MSE: 1.447
+OMP as a function sigma: experiment 28/100, sigma_ind 8/10, MSE: 1.407
+OMP as a function sigma: experiment 28/100, sigma_ind 9/10, MSE: 1.411
+OMP as a function sigma: experiment 28/100, sigma_ind 10/10, MSE: 1.438
+OMP as a function sigma: experiment 29/100, sigma_ind 1/10, MSE: 1.425
+OMP as a function sigma: experiment 29/100, sigma_ind 2/10, MSE: 1.437
+OMP as a function sigma: experiment 29/100, sigma_ind 3/10, MSE: 1.414
+OMP as a function sigma: experiment 29/100, sigma_ind 4/10, MSE: 1.462
+OMP as a function sigma: experiment 29/100, sigma_ind 5/10, MSE: 1.485
+OMP as a function sigma: experiment 29/100, sigma_ind 6/10, MSE: 1.470
+OMP as a function sigma: experiment 29/100, sigma_ind 7/10, MSE: 1.493
+OMP as a function sigma: experiment 29/100, sigma_ind 8/10, MSE: 1.449
+OMP as a function sigma: experiment 29/100, sigma_ind 9/10, MSE: 1.453
+OMP as a function sigma: experiment 29/100, sigma_ind 10/10, MSE: 1.477
+OMP as a function sigma: experiment 30/100, sigma_ind 1/10, MSE: 1.753
+OMP as a function sigma: experiment 30/100, sigma_ind 2/10, MSE: 1.648
+OMP as a function sigma: experiment 30/100, sigma_ind 3/10, MSE: 1.562
+OMP as a function sigma: experiment 30/100, sigma_ind 4/10, MSE: 1.578
+OMP as a function sigma: experiment 30/100, sigma_ind 5/10, MSE: 1.577
+OMP as a function sigma: experiment 30/100, sigma_ind 6/10, MSE: 1.545
+OMP as a function sigma: experiment 30/100, sigma_ind 7/10, MSE: 1.557
+OMP as a function sigma: experiment 30/100, sigma_ind 8/10, MSE: 1.508
+OMP as a function sigma: experiment 30/100, sigma_ind 9/10, MSE: 1.504
+OMP as a function sigma: experiment 30/100, sigma_ind 10/10, MSE: 1.523
+OMP as a function sigma: experiment 31/100, sigma_ind 1/10, MSE: 2.013
+OMP as a function sigma: experiment 31/100, sigma_ind 2/10, MSE: 1.814
+OMP as a function sigma: experiment 31/100, sigma_ind 3/10, MSE: 1.685
+OMP as a function sigma: experiment 31/100, sigma_ind 4/10, MSE: 1.614
+OMP as a function sigma: experiment 31/100, sigma_ind 5/10, MSE: 1.609
+OMP as a function sigma: experiment 31/100, sigma_ind 6/10, MSE: 1.574
+OMP as a function sigma: experiment 31/100, sigma_ind 7/10, MSE: 1.584
+OMP as a function sigma: experiment 31/100, sigma_ind 8/10, MSE: 1.533
+OMP as a function sigma: experiment 31/100, sigma_ind 9/10, MSE: 1.529
+OMP as a function sigma: experiment 31/100, sigma_ind 10/10, MSE: 1.546
+OMP as a function sigma: experiment 32/100, sigma_ind 1/10, MSE: 2.085
+OMP as a function sigma: experiment 32/100, sigma_ind 2/10, MSE: 1.867
+OMP as a function sigma: experiment 32/100, sigma_ind 3/10, MSE: 1.728
+OMP as a function sigma: experiment 32/100, sigma_ind 4/10, MSE: 1.661
+OMP as a function sigma: experiment 32/100, sigma_ind 5/10, MSE: 1.659
+OMP as a function sigma: experiment 32/100, sigma_ind 6/10, MSE: 1.618
+OMP as a function sigma: experiment 32/100, sigma_ind 7/10, MSE: 1.644
+OMP as a function sigma: experiment 32/100, sigma_ind 8/10, MSE: 1.590
+OMP as a function sigma: experiment 32/100, sigma_ind 9/10, MSE: 1.581
+OMP as a function sigma: experiment 32/100, sigma_ind 10/10, MSE: 1.595
+OMP as a function sigma: experiment 33/100, sigma_ind 1/10, MSE: 2.133
+OMP as a function sigma: experiment 33/100, sigma_ind 2/10, MSE: 1.924
+OMP as a function sigma: experiment 33/100, sigma_ind 3/10, MSE: 1.777
+OMP as a function sigma: experiment 33/100, sigma_ind 4/10, MSE: 1.705
+OMP as a function sigma: experiment 33/100, sigma_ind 5/10, MSE: 1.700
+OMP as a function sigma: experiment 33/100, sigma_ind 6/10, MSE: 1.661
+OMP as a function sigma: experiment 33/100, sigma_ind 7/10, MSE: 1.685
+OMP as a function sigma: experiment 33/100, sigma_ind 8/10, MSE: 1.630
+OMP as a function sigma: experiment 33/100, sigma_ind 9/10, MSE: 1.620
+OMP as a function sigma: experiment 33/100, sigma_ind 10/10, MSE: 1.633
+OMP as a function sigma: experiment 34/100, sigma_ind 1/10, MSE: 2.182
+OMP as a function sigma: experiment 34/100, sigma_ind 2/10, MSE: 1.968
+OMP as a function sigma: experiment 34/100, sigma_ind 3/10, MSE: 1.822
+OMP as a function sigma: experiment 34/100, sigma_ind 4/10, MSE: 1.750
+OMP as a function sigma: experiment 34/100, sigma_ind 5/10, MSE: 1.738
+OMP as a function sigma: experiment 34/100, sigma_ind 6/10, MSE: 1.709
+OMP as a function sigma: experiment 34/100, sigma_ind 7/10, MSE: 1.728
+OMP as a function sigma: experiment 34/100, sigma_ind 8/10, MSE: 1.669
+OMP as a function sigma: experiment 34/100, sigma_ind 9/10, MSE: 1.660
+OMP as a function sigma: experiment 34/100, sigma_ind 10/10, MSE: 1.670
+OMP as a function sigma: experiment 35/100, sigma_ind 1/10, MSE: 2.264
+OMP as a function sigma: experiment 35/100, sigma_ind 2/10, MSE: 2.026
+OMP as a function sigma: experiment 35/100, sigma_ind 3/10, MSE: 1.867
+OMP as a function sigma: experiment 35/100, sigma_ind 4/10, MSE: 1.812
+OMP as a function sigma: experiment 35/100, sigma_ind 5/10, MSE: 1.790
+OMP as a function sigma: experiment 35/100, sigma_ind 6/10, MSE: 1.776
+OMP as a function sigma: experiment 35/100, sigma_ind 7/10, MSE: 1.789
+OMP as a function sigma: experiment 35/100, sigma_ind 8/10, MSE: 1.741
+OMP as a function sigma: experiment 35/100, sigma_ind 9/10, MSE: 1.727
+OMP as a function sigma: experiment 35/100, sigma_ind 10/10, MSE: 1.751
+OMP as a function sigma: experiment 36/100, sigma_ind 1/10, MSE: 2.303
+OMP as a function sigma: experiment 36/100, sigma_ind 2/10, MSE: 2.086
+OMP as a function sigma: experiment 36/100, sigma_ind 3/10, MSE: 1.961
+OMP as a function sigma: experiment 36/100, sigma_ind 4/10, MSE: 1.901
+OMP as a function sigma: experiment 36/100, sigma_ind 5/10, MSE: 1.882
+OMP as a function sigma: experiment 36/100, sigma_ind 6/10, MSE: 1.863
+OMP as a function sigma: experiment 36/100, sigma_ind 7/10, MSE: 1.865
+OMP as a function sigma: experiment 36/100, sigma_ind 8/10, MSE: 1.809
+OMP as a function sigma: experiment 36/100, sigma_ind 9/10, MSE: 1.797
+OMP as a function sigma: experiment 36/100, sigma_ind 10/10, MSE: 1.816
+OMP as a function sigma: experiment 37/100, sigma_ind 1/10, MSE: 2.348
+OMP as a function sigma: experiment 37/100, sigma_ind 2/10, MSE: 2.146
+OMP as a function sigma: experiment 37/100, sigma_ind 3/10, MSE: 2.012
+OMP as a function sigma: experiment 37/100, sigma_ind 4/10, MSE: 1.946
+OMP as a function sigma: experiment 37/100, sigma_ind 5/10, MSE: 1.940
+OMP as a function sigma: experiment 37/100, sigma_ind 6/10, MSE: 1.915
+OMP as a function sigma: experiment 37/100, sigma_ind 7/10, MSE: 1.926
+OMP as a function sigma: experiment 37/100, sigma_ind 8/10, MSE: 1.864
+OMP as a function sigma: experiment 37/100, sigma_ind 9/10, MSE: 1.846
+OMP as a function sigma: experiment 37/100, sigma_ind 10/10, MSE: 1.861
+OMP as a function sigma: experiment 38/100, sigma_ind 1/10, MSE: 2.351
+OMP as a function sigma: experiment 38/100, sigma_ind 2/10, MSE: 2.149
+OMP as a function sigma: experiment 38/100, sigma_ind 3/10, MSE: 2.045
+OMP as a function sigma: experiment 38/100, sigma_ind 4/10, MSE: 1.968
+OMP as a function sigma: experiment 38/100, sigma_ind 5/10, MSE: 1.966
+OMP as a function sigma: experiment 38/100, sigma_ind 6/10, MSE: 1.939
+OMP as a function sigma: experiment 38/100, sigma_ind 7/10, MSE: 1.974
+OMP as a function sigma: experiment 38/100, sigma_ind 8/10, MSE: 1.905
+OMP as a function sigma: experiment 38/100, sigma_ind 9/10, MSE: 1.882
+OMP as a function sigma: experiment 38/100, sigma_ind 10/10, MSE: 1.893
+OMP as a function sigma: experiment 39/100, sigma_ind 1/10, MSE: 2.432
+OMP as a function sigma: experiment 39/100, sigma_ind 2/10, MSE: 2.209
+OMP as a function sigma: experiment 39/100, sigma_ind 3/10, MSE: 2.145
+OMP as a function sigma: experiment 39/100, sigma_ind 4/10, MSE: 2.046
+OMP as a function sigma: experiment 39/100, sigma_ind 5/10, MSE: 2.030
+OMP as a function sigma: experiment 39/100, sigma_ind 6/10, MSE: 2.000
+OMP as a function sigma: experiment 39/100, sigma_ind 7/10, MSE: 2.027
+OMP as a function sigma: experiment 39/100, sigma_ind 8/10, MSE: 1.953
+OMP as a function sigma: experiment 39/100, sigma_ind 9/10, MSE: 1.925
+OMP as a function sigma: experiment 39/100, sigma_ind 10/10, MSE: 1.933
+OMP as a function sigma: experiment 40/100, sigma_ind 1/10, MSE: 2.451
+OMP as a function sigma: experiment 40/100, sigma_ind 2/10, MSE: 2.226
+OMP as a function sigma: experiment 40/100, sigma_ind 3/10, MSE: 2.161
+OMP as a function sigma: experiment 40/100, sigma_ind 4/10, MSE: 2.064
+OMP as a function sigma: experiment 40/100, sigma_ind 5/10, MSE: 2.048
+OMP as a function sigma: experiment 40/100, sigma_ind 6/10, MSE: 2.018
+OMP as a function sigma: experiment 40/100, sigma_ind 7/10, MSE: 2.045
+OMP as a function sigma: experiment 40/100, sigma_ind 8/10, MSE: 1.971
+OMP as a function sigma: experiment 40/100, sigma_ind 9/10, MSE: 1.983
+OMP as a function sigma: experiment 40/100, sigma_ind 10/10, MSE: 1.986
+OMP as a function sigma: experiment 41/100, sigma_ind 1/10, MSE: 2.458
+OMP as a function sigma: experiment 41/100, sigma_ind 2/10, MSE: 2.233
+OMP as a function sigma: experiment 41/100, sigma_ind 3/10, MSE: 2.186
+OMP as a function sigma: experiment 41/100, sigma_ind 4/10, MSE: 2.084
+OMP as a function sigma: experiment 41/100, sigma_ind 5/10, MSE: 2.065
+OMP as a function sigma: experiment 41/100, sigma_ind 6/10, MSE: 2.048
+OMP as a function sigma: experiment 41/100, sigma_ind 7/10, MSE: 2.071
+OMP as a function sigma: experiment 41/100, sigma_ind 8/10, MSE: 2.006
+OMP as a function sigma: experiment 41/100, sigma_ind 9/10, MSE: 2.014
+OMP as a function sigma: experiment 41/100, sigma_ind 10/10, MSE: 2.014
+OMP as a function sigma: experiment 42/100, sigma_ind 1/10, MSE: 2.479
+OMP as a function sigma: experiment 42/100, sigma_ind 2/10, MSE: 2.249
+OMP as a function sigma: experiment 42/100, sigma_ind 3/10, MSE: 2.198
+OMP as a function sigma: experiment 42/100, sigma_ind 4/10, MSE: 2.111
+OMP as a function sigma: experiment 42/100, sigma_ind 5/10, MSE: 2.106
+OMP as a function sigma: experiment 42/100, sigma_ind 6/10, MSE: 2.087
+OMP as a function sigma: experiment 42/100, sigma_ind 7/10, MSE: 2.107
+OMP as a function sigma: experiment 42/100, sigma_ind 8/10, MSE: 2.040
+OMP as a function sigma: experiment 42/100, sigma_ind 9/10, MSE: 2.047
+OMP as a function sigma: experiment 42/100, sigma_ind 10/10, MSE: 2.076
+OMP as a function sigma: experiment 43/100, sigma_ind 1/10, MSE: 2.509
+OMP as a function sigma: experiment 43/100, sigma_ind 2/10, MSE: 2.280
+OMP as a function sigma: experiment 43/100, sigma_ind 3/10, MSE: 2.233
+OMP as a function sigma: experiment 43/100, sigma_ind 4/10, MSE: 2.143
+OMP as a function sigma: experiment 43/100, sigma_ind 5/10, MSE: 2.136
+OMP as a function sigma: experiment 43/100, sigma_ind 6/10, MSE: 2.142
+OMP as a function sigma: experiment 43/100, sigma_ind 7/10, MSE: 2.157
+OMP as a function sigma: experiment 43/100, sigma_ind 8/10, MSE: 2.090
+OMP as a function sigma: experiment 43/100, sigma_ind 9/10, MSE: 2.099
+OMP as a function sigma: experiment 43/100, sigma_ind 10/10, MSE: 2.126
+OMP as a function sigma: experiment 44/100, sigma_ind 1/10, MSE: 2.550
+OMP as a function sigma: experiment 44/100, sigma_ind 2/10, MSE: 2.314
+OMP as a function sigma: experiment 44/100, sigma_ind 3/10, MSE: 2.288
+OMP as a function sigma: experiment 44/100, sigma_ind 4/10, MSE: 2.190
+OMP as a function sigma: experiment 44/100, sigma_ind 5/10, MSE: 2.178
+OMP as a function sigma: experiment 44/100, sigma_ind 6/10, MSE: 2.180
+OMP as a function sigma: experiment 44/100, sigma_ind 7/10, MSE: 2.237
+OMP as a function sigma: experiment 44/100, sigma_ind 8/10, MSE: 2.163
+OMP as a function sigma: experiment 44/100, sigma_ind 9/10, MSE: 2.171
+OMP as a function sigma: experiment 44/100, sigma_ind 10/10, MSE: 2.193
+OMP as a function sigma: experiment 45/100, sigma_ind 1/10, MSE: 2.590
+OMP as a function sigma: experiment 45/100, sigma_ind 2/10, MSE: 2.367
+OMP as a function sigma: experiment 45/100, sigma_ind 3/10, MSE: 2.336
+OMP as a function sigma: experiment 45/100, sigma_ind 4/10, MSE: 2.233
+OMP as a function sigma: experiment 45/100, sigma_ind 5/10, MSE: 2.234
+OMP as a function sigma: experiment 45/100, sigma_ind 6/10, MSE: 2.234
+OMP as a function sigma: experiment 45/100, sigma_ind 7/10, MSE: 2.284
+OMP as a function sigma: experiment 45/100, sigma_ind 8/10, MSE: 2.242
+OMP as a function sigma: experiment 45/100, sigma_ind 9/10, MSE: 2.242
+OMP as a function sigma: experiment 45/100, sigma_ind 10/10, MSE: 2.258
+OMP as a function sigma: experiment 46/100, sigma_ind 1/10, MSE: 2.621
+OMP as a function sigma: experiment 46/100, sigma_ind 2/10, MSE: 2.397
+OMP as a function sigma: experiment 46/100, sigma_ind 3/10, MSE: 2.364
+OMP as a function sigma: experiment 46/100, sigma_ind 4/10, MSE: 2.261
+OMP as a function sigma: experiment 46/100, sigma_ind 5/10, MSE: 2.262
+OMP as a function sigma: experiment 46/100, sigma_ind 6/10, MSE: 2.261
+OMP as a function sigma: experiment 46/100, sigma_ind 7/10, MSE: 2.312
+OMP as a function sigma: experiment 46/100, sigma_ind 8/10, MSE: 2.277
+OMP as a function sigma: experiment 46/100, sigma_ind 9/10, MSE: 2.275
+OMP as a function sigma: experiment 46/100, sigma_ind 10/10, MSE: 2.299
+OMP as a function sigma: experiment 47/100, sigma_ind 1/10, MSE: 2.656
+OMP as a function sigma: experiment 47/100, sigma_ind 2/10, MSE: 2.456
+OMP as a function sigma: experiment 47/100, sigma_ind 3/10, MSE: 2.412
+OMP as a function sigma: experiment 47/100, sigma_ind 4/10, MSE: 2.317
+OMP as a function sigma: experiment 47/100, sigma_ind 5/10, MSE: 2.312
+OMP as a function sigma: experiment 47/100, sigma_ind 6/10, MSE: 2.307
+OMP as a function sigma: experiment 47/100, sigma_ind 7/10, MSE: 2.354
+OMP as a function sigma: experiment 47/100, sigma_ind 8/10, MSE: 2.317
+OMP as a function sigma: experiment 47/100, sigma_ind 9/10, MSE: 2.318
+OMP as a function sigma: experiment 47/100, sigma_ind 10/10, MSE: 2.341
+OMP as a function sigma: experiment 48/100, sigma_ind 1/10, MSE: 2.752
+OMP as a function sigma: experiment 48/100, sigma_ind 2/10, MSE: 2.519
+OMP as a function sigma: experiment 48/100, sigma_ind 3/10, MSE: 2.501
+OMP as a function sigma: experiment 48/100, sigma_ind 4/10, MSE: 2.389
+OMP as a function sigma: experiment 48/100, sigma_ind 5/10, MSE: 2.372
+OMP as a function sigma: experiment 48/100, sigma_ind 6/10, MSE: 2.360
+OMP as a function sigma: experiment 48/100, sigma_ind 7/10, MSE: 2.402
+OMP as a function sigma: experiment 48/100, sigma_ind 8/10, MSE: 2.375
+OMP as a function sigma: experiment 48/100, sigma_ind 9/10, MSE: 2.369
+OMP as a function sigma: experiment 48/100, sigma_ind 10/10, MSE: 2.388
+OMP as a function sigma: experiment 49/100, sigma_ind 1/10, MSE: 2.775
+OMP as a function sigma: experiment 49/100, sigma_ind 2/10, MSE: 2.541
+OMP as a function sigma: experiment 49/100, sigma_ind 3/10, MSE: 2.529
+OMP as a function sigma: experiment 49/100, sigma_ind 4/10, MSE: 2.416
+OMP as a function sigma: experiment 49/100, sigma_ind 5/10, MSE: 2.399
+OMP as a function sigma: experiment 49/100, sigma_ind 6/10, MSE: 2.398
+OMP as a function sigma: experiment 49/100, sigma_ind 7/10, MSE: 2.439
+OMP as a function sigma: experiment 49/100, sigma_ind 8/10, MSE: 2.412
+OMP as a function sigma: experiment 49/100, sigma_ind 9/10, MSE: 2.405
+OMP as a function sigma: experiment 49/100, sigma_ind 10/10, MSE: 2.423
+OMP as a function sigma: experiment 50/100, sigma_ind 1/10, MSE: 2.814
+OMP as a function sigma: experiment 50/100, sigma_ind 2/10, MSE: 2.591
+OMP as a function sigma: experiment 50/100, sigma_ind 3/10, MSE: 2.569
+OMP as a function sigma: experiment 50/100, sigma_ind 4/10, MSE: 2.477
+OMP as a function sigma: experiment 50/100, sigma_ind 5/10, MSE: 2.450
+OMP as a function sigma: experiment 50/100, sigma_ind 6/10, MSE: 2.443
+OMP as a function sigma: experiment 50/100, sigma_ind 7/10, MSE: 2.480
+OMP as a function sigma: experiment 50/100, sigma_ind 8/10, MSE: 2.448
+OMP as a function sigma: experiment 50/100, sigma_ind 9/10, MSE: 2.439
+OMP as a function sigma: experiment 50/100, sigma_ind 10/10, MSE: 2.458
+OMP as a function sigma: experiment 51/100, sigma_ind 1/10, MSE: 2.880
+OMP as a function sigma: experiment 51/100, sigma_ind 2/10, MSE: 2.642
+OMP as a function sigma: experiment 51/100, sigma_ind 3/10, MSE: 2.628
+OMP as a function sigma: experiment 51/100, sigma_ind 4/10, MSE: 2.567
+OMP as a function sigma: experiment 51/100, sigma_ind 5/10, MSE: 2.534
+OMP as a function sigma: experiment 51/100, sigma_ind 6/10, MSE: 2.515
+OMP as a function sigma: experiment 51/100, sigma_ind 7/10, MSE: 2.554
+OMP as a function sigma: experiment 51/100, sigma_ind 8/10, MSE: 2.516
+OMP as a function sigma: experiment 51/100, sigma_ind 9/10, MSE: 2.502
+OMP as a function sigma: experiment 51/100, sigma_ind 10/10, MSE: 2.517
+OMP as a function sigma: experiment 52/100, sigma_ind 1/10, MSE: 2.935
+OMP as a function sigma: experiment 52/100, sigma_ind 2/10, MSE: 2.692
+OMP as a function sigma: experiment 52/100, sigma_ind 3/10, MSE: 2.676
+OMP as a function sigma: experiment 52/100, sigma_ind 4/10, MSE: 2.614
+OMP as a function sigma: experiment 52/100, sigma_ind 5/10, MSE: 2.580
+OMP as a function sigma: experiment 52/100, sigma_ind 6/10, MSE: 2.561
+OMP as a function sigma: experiment 52/100, sigma_ind 7/10, MSE: 2.599
+OMP as a function sigma: experiment 52/100, sigma_ind 8/10, MSE: 2.581
+OMP as a function sigma: experiment 52/100, sigma_ind 9/10, MSE: 2.563
+OMP as a function sigma: experiment 52/100, sigma_ind 10/10, MSE: 2.575
+OMP as a function sigma: experiment 53/100, sigma_ind 1/10, MSE: 2.991
+OMP as a function sigma: experiment 53/100, sigma_ind 2/10, MSE: 2.737
+OMP as a function sigma: experiment 53/100, sigma_ind 3/10, MSE: 2.732
+OMP as a function sigma: experiment 53/100, sigma_ind 4/10, MSE: 2.671
+OMP as a function sigma: experiment 53/100, sigma_ind 5/10, MSE: 2.627
+OMP as a function sigma: experiment 53/100, sigma_ind 6/10, MSE: 2.620
+OMP as a function sigma: experiment 53/100, sigma_ind 7/10, MSE: 2.653
+OMP as a function sigma: experiment 53/100, sigma_ind 8/10, MSE: 2.630
+OMP as a function sigma: experiment 53/100, sigma_ind 9/10, MSE: 2.610
+OMP as a function sigma: experiment 53/100, sigma_ind 10/10, MSE: 2.620
+OMP as a function sigma: experiment 54/100, sigma_ind 1/10, MSE: 3.014
+OMP as a function sigma: experiment 54/100, sigma_ind 2/10, MSE: 2.759
+OMP as a function sigma: experiment 54/100, sigma_ind 3/10, MSE: 2.794
+OMP as a function sigma: experiment 54/100, sigma_ind 4/10, MSE: 2.755
+OMP as a function sigma: experiment 54/100, sigma_ind 5/10, MSE: 2.699
+OMP as a function sigma: experiment 54/100, sigma_ind 6/10, MSE: 2.684
+OMP as a function sigma: experiment 54/100, sigma_ind 7/10, MSE: 2.715
+OMP as a function sigma: experiment 54/100, sigma_ind 8/10, MSE: 2.687
+OMP as a function sigma: experiment 54/100, sigma_ind 9/10, MSE: 2.668
+OMP as a function sigma: experiment 54/100, sigma_ind 10/10, MSE: 2.675
+OMP as a function sigma: experiment 55/100, sigma_ind 1/10, MSE: 3.047
+OMP as a function sigma: experiment 55/100, sigma_ind 2/10, MSE: 2.786
+OMP as a function sigma: experiment 55/100, sigma_ind 3/10, MSE: 2.824
+OMP as a function sigma: experiment 55/100, sigma_ind 4/10, MSE: 2.780
+OMP as a function sigma: experiment 55/100, sigma_ind 5/10, MSE: 2.721
+OMP as a function sigma: experiment 55/100, sigma_ind 6/10, MSE: 2.704
+OMP as a function sigma: experiment 55/100, sigma_ind 7/10, MSE: 2.740
+OMP as a function sigma: experiment 55/100, sigma_ind 8/10, MSE: 2.729
+OMP as a function sigma: experiment 55/100, sigma_ind 9/10, MSE: 2.705
+OMP as a function sigma: experiment 55/100, sigma_ind 10/10, MSE: 2.710
+OMP as a function sigma: experiment 56/100, sigma_ind 1/10, MSE: 3.148
+OMP as a function sigma: experiment 56/100, sigma_ind 2/10, MSE: 2.912
+OMP as a function sigma: experiment 56/100, sigma_ind 3/10, MSE: 2.921
+OMP as a function sigma: experiment 56/100, sigma_ind 4/10, MSE: 2.860
+OMP as a function sigma: experiment 56/100, sigma_ind 5/10, MSE: 2.799
+OMP as a function sigma: experiment 56/100, sigma_ind 6/10, MSE: 2.794
+OMP as a function sigma: experiment 56/100, sigma_ind 7/10, MSE: 2.863
+OMP as a function sigma: experiment 56/100, sigma_ind 8/10, MSE: 2.844
+OMP as a function sigma: experiment 56/100, sigma_ind 9/10, MSE: 2.810
+OMP as a function sigma: experiment 56/100, sigma_ind 10/10, MSE: 2.805
+OMP as a function sigma: experiment 57/100, sigma_ind 1/10, MSE: 3.195
+OMP as a function sigma: experiment 57/100, sigma_ind 2/10, MSE: 2.948
+OMP as a function sigma: experiment 57/100, sigma_ind 3/10, MSE: 2.968
+OMP as a function sigma: experiment 57/100, sigma_ind 4/10, MSE: 2.912
+OMP as a function sigma: experiment 57/100, sigma_ind 5/10, MSE: 2.889
+OMP as a function sigma: experiment 57/100, sigma_ind 6/10, MSE: 2.872
+OMP as a function sigma: experiment 57/100, sigma_ind 7/10, MSE: 2.933
+OMP as a function sigma: experiment 57/100, sigma_ind 8/10, MSE: 2.908
+OMP as a function sigma: experiment 57/100, sigma_ind 9/10, MSE: 2.869
+OMP as a function sigma: experiment 57/100, sigma_ind 10/10, MSE: 2.864
+OMP as a function sigma: experiment 58/100, sigma_ind 1/10, MSE: 3.213
+OMP as a function sigma: experiment 58/100, sigma_ind 2/10, MSE: 3.005
+OMP as a function sigma: experiment 58/100, sigma_ind 3/10, MSE: 3.057
+OMP as a function sigma: experiment 58/100, sigma_ind 4/10, MSE: 2.989
+OMP as a function sigma: experiment 58/100, sigma_ind 5/10, MSE: 2.957
+OMP as a function sigma: experiment 58/100, sigma_ind 6/10, MSE: 2.935
+OMP as a function sigma: experiment 58/100, sigma_ind 7/10, MSE: 2.996
+OMP as a function sigma: experiment 58/100, sigma_ind 8/10, MSE: 2.967
+OMP as a function sigma: experiment 58/100, sigma_ind 9/10, MSE: 2.926
+OMP as a function sigma: experiment 58/100, sigma_ind 10/10, MSE: 2.919
+OMP as a function sigma: experiment 59/100, sigma_ind 1/10, MSE: 3.223
+OMP as a function sigma: experiment 59/100, sigma_ind 2/10, MSE: 3.034
+OMP as a function sigma: experiment 59/100, sigma_ind 3/10, MSE: 3.084
+OMP as a function sigma: experiment 59/100, sigma_ind 4/10, MSE: 3.062
+OMP as a function sigma: experiment 59/100, sigma_ind 5/10, MSE: 3.017
+OMP as a function sigma: experiment 59/100, sigma_ind 6/10, MSE: 2.986
+OMP as a function sigma: experiment 59/100, sigma_ind 7/10, MSE: 3.043
+OMP as a function sigma: experiment 59/100, sigma_ind 8/10, MSE: 3.017
+OMP as a function sigma: experiment 59/100, sigma_ind 9/10, MSE: 2.977
+OMP as a function sigma: experiment 59/100, sigma_ind 10/10, MSE: 2.965
+OMP as a function sigma: experiment 60/100, sigma_ind 1/10, MSE: 3.284
+OMP as a function sigma: experiment 60/100, sigma_ind 2/10, MSE: 3.106
+OMP as a function sigma: experiment 60/100, sigma_ind 3/10, MSE: 3.152
+OMP as a function sigma: experiment 60/100, sigma_ind 4/10, MSE: 3.129
+OMP as a function sigma: experiment 60/100, sigma_ind 5/10, MSE: 3.088
+OMP as a function sigma: experiment 60/100, sigma_ind 6/10, MSE: 3.065
+OMP as a function sigma: experiment 60/100, sigma_ind 7/10, MSE: 3.117
+OMP as a function sigma: experiment 60/100, sigma_ind 8/10, MSE: 3.088
+OMP as a function sigma: experiment 60/100, sigma_ind 9/10, MSE: 3.044
+OMP as a function sigma: experiment 60/100, sigma_ind 10/10, MSE: 3.031
+OMP as a function sigma: experiment 61/100, sigma_ind 1/10, MSE: 3.398
+OMP as a function sigma: experiment 61/100, sigma_ind 2/10, MSE: 3.208
+OMP as a function sigma: experiment 61/100, sigma_ind 3/10, MSE: 3.276
+OMP as a function sigma: experiment 61/100, sigma_ind 4/10, MSE: 3.217
+OMP as a function sigma: experiment 61/100, sigma_ind 5/10, MSE: 3.161
+OMP as a function sigma: experiment 61/100, sigma_ind 6/10, MSE: 3.127
+OMP as a function sigma: experiment 61/100, sigma_ind 7/10, MSE: 3.181
+OMP as a function sigma: experiment 61/100, sigma_ind 8/10, MSE: 3.145
+OMP as a function sigma: experiment 61/100, sigma_ind 9/10, MSE: 3.103
+OMP as a function sigma: experiment 61/100, sigma_ind 10/10, MSE: 3.085
+OMP as a function sigma: experiment 62/100, sigma_ind 1/10, MSE: 3.400
+OMP as a function sigma: experiment 62/100, sigma_ind 2/10, MSE: 3.210
+OMP as a function sigma: experiment 62/100, sigma_ind 3/10, MSE: 3.301
+OMP as a function sigma: experiment 62/100, sigma_ind 4/10, MSE: 3.254
+OMP as a function sigma: experiment 62/100, sigma_ind 5/10, MSE: 3.192
+OMP as a function sigma: experiment 62/100, sigma_ind 6/10, MSE: 3.154
+OMP as a function sigma: experiment 62/100, sigma_ind 7/10, MSE: 3.210
+OMP as a function sigma: experiment 62/100, sigma_ind 8/10, MSE: 3.171
+OMP as a function sigma: experiment 62/100, sigma_ind 9/10, MSE: 3.132
+OMP as a function sigma: experiment 62/100, sigma_ind 10/10, MSE: 3.113
+OMP as a function sigma: experiment 63/100, sigma_ind 1/10, MSE: 3.662
+OMP as a function sigma: experiment 63/100, sigma_ind 2/10, MSE: 3.381
+OMP as a function sigma: experiment 63/100, sigma_ind 3/10, MSE: 3.424
+OMP as a function sigma: experiment 63/100, sigma_ind 4/10, MSE: 3.359
+OMP as a function sigma: experiment 63/100, sigma_ind 5/10, MSE: 3.278
+OMP as a function sigma: experiment 63/100, sigma_ind 6/10, MSE: 3.236
+OMP as a function sigma: experiment 63/100, sigma_ind 7/10, MSE: 3.281
+OMP as a function sigma: experiment 63/100, sigma_ind 8/10, MSE: 3.234
+OMP as a function sigma: experiment 63/100, sigma_ind 9/10, MSE: 3.206
+OMP as a function sigma: experiment 63/100, sigma_ind 10/10, MSE: 3.187
+OMP as a function sigma: experiment 64/100, sigma_ind 1/10, MSE: 3.678
+OMP as a function sigma: experiment 64/100, sigma_ind 2/10, MSE: 3.435
+OMP as a function sigma: experiment 64/100, sigma_ind 3/10, MSE: 3.461
+OMP as a function sigma: experiment 64/100, sigma_ind 4/10, MSE: 3.419
+OMP as a function sigma: experiment 64/100, sigma_ind 5/10, MSE: 3.327
+OMP as a function sigma: experiment 64/100, sigma_ind 6/10, MSE: 3.278
+OMP as a function sigma: experiment 64/100, sigma_ind 7/10, MSE: 3.340
+OMP as a function sigma: experiment 64/100, sigma_ind 8/10, MSE: 3.286
+OMP as a function sigma: experiment 64/100, sigma_ind 9/10, MSE: 3.253
+OMP as a function sigma: experiment 64/100, sigma_ind 10/10, MSE: 3.229
+OMP as a function sigma: experiment 65/100, sigma_ind 1/10, MSE: 3.736
+OMP as a function sigma: experiment 65/100, sigma_ind 2/10, MSE: 3.475
+OMP as a function sigma: experiment 65/100, sigma_ind 3/10, MSE: 3.502
+OMP as a function sigma: experiment 65/100, sigma_ind 4/10, MSE: 3.451
+OMP as a function sigma: experiment 65/100, sigma_ind 5/10, MSE: 3.358
+OMP as a function sigma: experiment 65/100, sigma_ind 6/10, MSE: 3.305
+OMP as a function sigma: experiment 65/100, sigma_ind 7/10, MSE: 3.364
+OMP as a function sigma: experiment 65/100, sigma_ind 8/10, MSE: 3.308
+OMP as a function sigma: experiment 65/100, sigma_ind 9/10, MSE: 3.273
+OMP as a function sigma: experiment 65/100, sigma_ind 10/10, MSE: 3.249
+OMP as a function sigma: experiment 66/100, sigma_ind 1/10, MSE: 3.758
+OMP as a function sigma: experiment 66/100, sigma_ind 2/10, MSE: 3.497
+OMP as a function sigma: experiment 66/100, sigma_ind 3/10, MSE: 3.524
+OMP as a function sigma: experiment 66/100, sigma_ind 4/10, MSE: 3.462
+OMP as a function sigma: experiment 66/100, sigma_ind 5/10, MSE: 3.411
+OMP as a function sigma: experiment 66/100, sigma_ind 6/10, MSE: 3.356
+OMP as a function sigma: experiment 66/100, sigma_ind 7/10, MSE: 3.464
+OMP as a function sigma: experiment 66/100, sigma_ind 8/10, MSE: 3.395
+OMP as a function sigma: experiment 66/100, sigma_ind 9/10, MSE: 3.325
+OMP as a function sigma: experiment 66/100, sigma_ind 10/10, MSE: 3.307
+OMP as a function sigma: experiment 67/100, sigma_ind 1/10, MSE: 3.813
+OMP as a function sigma: experiment 67/100, sigma_ind 2/10, MSE: 3.546
+OMP as a function sigma: experiment 67/100, sigma_ind 3/10, MSE: 3.558
+OMP as a function sigma: experiment 67/100, sigma_ind 4/10, MSE: 3.488
+OMP as a function sigma: experiment 67/100, sigma_ind 5/10, MSE: 3.431
+OMP as a function sigma: experiment 67/100, sigma_ind 6/10, MSE: 3.372
+OMP as a function sigma: experiment 67/100, sigma_ind 7/10, MSE: 3.495
+OMP as a function sigma: experiment 67/100, sigma_ind 8/10, MSE: 3.439
+OMP as a function sigma: experiment 67/100, sigma_ind 9/10, MSE: 3.363
+OMP as a function sigma: experiment 67/100, sigma_ind 10/10, MSE: 3.379
+OMP as a function sigma: experiment 68/100, sigma_ind 1/10, MSE: 3.886
+OMP as a function sigma: experiment 68/100, sigma_ind 2/10, MSE: 3.600
+OMP as a function sigma: experiment 68/100, sigma_ind 3/10, MSE: 3.604
+OMP as a function sigma: experiment 68/100, sigma_ind 4/10, MSE: 3.547
+OMP as a function sigma: experiment 68/100, sigma_ind 5/10, MSE: 3.481
+OMP as a function sigma: experiment 68/100, sigma_ind 6/10, MSE: 3.417
+OMP as a function sigma: experiment 68/100, sigma_ind 7/10, MSE: 3.536
+OMP as a function sigma: experiment 68/100, sigma_ind 8/10, MSE: 3.498
+OMP as a function sigma: experiment 68/100, sigma_ind 9/10, MSE: 3.414
+OMP as a function sigma: experiment 68/100, sigma_ind 10/10, MSE: 3.436
+OMP as a function sigma: experiment 69/100, sigma_ind 1/10, MSE: 4.064
+OMP as a function sigma: experiment 69/100, sigma_ind 2/10, MSE: 3.738
+OMP as a function sigma: experiment 69/100, sigma_ind 3/10, MSE: 3.710
+OMP as a function sigma: experiment 69/100, sigma_ind 4/10, MSE: 3.636
+OMP as a function sigma: experiment 69/100, sigma_ind 5/10, MSE: 3.555
+OMP as a function sigma: experiment 69/100, sigma_ind 6/10, MSE: 3.480
+OMP as a function sigma: experiment 69/100, sigma_ind 7/10, MSE: 3.598
+OMP as a function sigma: experiment 69/100, sigma_ind 8/10, MSE: 3.554
+OMP as a function sigma: experiment 69/100, sigma_ind 9/10, MSE: 3.464
+OMP as a function sigma: experiment 69/100, sigma_ind 10/10, MSE: 3.483
+OMP as a function sigma: experiment 70/100, sigma_ind 1/10, MSE: 4.088
+OMP as a function sigma: experiment 70/100, sigma_ind 2/10, MSE: 3.761
+OMP as a function sigma: experiment 70/100, sigma_ind 3/10, MSE: 3.757
+OMP as a function sigma: experiment 70/100, sigma_ind 4/10, MSE: 3.679
+OMP as a function sigma: experiment 70/100, sigma_ind 5/10, MSE: 3.597
+OMP as a function sigma: experiment 70/100, sigma_ind 6/10, MSE: 3.521
+OMP as a function sigma: experiment 70/100, sigma_ind 7/10, MSE: 3.639
+OMP as a function sigma: experiment 70/100, sigma_ind 8/10, MSE: 3.593
+OMP as a function sigma: experiment 70/100, sigma_ind 9/10, MSE: 3.504
+OMP as a function sigma: experiment 70/100, sigma_ind 10/10, MSE: 3.522
+OMP as a function sigma: experiment 71/100, sigma_ind 1/10, MSE: 4.097
+OMP as a function sigma: experiment 71/100, sigma_ind 2/10, MSE: 3.775
+OMP as a function sigma: experiment 71/100, sigma_ind 3/10, MSE: 3.801
+OMP as a function sigma: experiment 71/100, sigma_ind 4/10, MSE: 3.754
+OMP as a function sigma: experiment 71/100, sigma_ind 5/10, MSE: 3.659
+OMP as a function sigma: experiment 71/100, sigma_ind 6/10, MSE: 3.573
+OMP as a function sigma: experiment 71/100, sigma_ind 7/10, MSE: 3.689
+OMP as a function sigma: experiment 71/100, sigma_ind 8/10, MSE: 3.639
+OMP as a function sigma: experiment 71/100, sigma_ind 9/10, MSE: 3.545
+OMP as a function sigma: experiment 71/100, sigma_ind 10/10, MSE: 3.575
+OMP as a function sigma: experiment 72/100, sigma_ind 1/10, MSE: 4.112
+OMP as a function sigma: experiment 72/100, sigma_ind 2/10, MSE: 3.790
+OMP as a function sigma: experiment 72/100, sigma_ind 3/10, MSE: 3.821
+OMP as a function sigma: experiment 72/100, sigma_ind 4/10, MSE: 3.773
+OMP as a function sigma: experiment 72/100, sigma_ind 5/10, MSE: 3.713
+OMP as a function sigma: experiment 72/100, sigma_ind 6/10, MSE: 3.619
+OMP as a function sigma: experiment 72/100, sigma_ind 7/10, MSE: 3.730
+OMP as a function sigma: experiment 72/100, sigma_ind 8/10, MSE: 3.675
+OMP as a function sigma: experiment 72/100, sigma_ind 9/10, MSE: 3.593
+OMP as a function sigma: experiment 72/100, sigma_ind 10/10, MSE: 3.635
+OMP as a function sigma: experiment 73/100, sigma_ind 1/10, MSE: 4.150
+OMP as a function sigma: experiment 73/100, sigma_ind 2/10, MSE: 3.848
+OMP as a function sigma: experiment 73/100, sigma_ind 3/10, MSE: 3.872
+OMP as a function sigma: experiment 73/100, sigma_ind 4/10, MSE: 3.828
+OMP as a function sigma: experiment 73/100, sigma_ind 5/10, MSE: 3.764
+OMP as a function sigma: experiment 73/100, sigma_ind 6/10, MSE: 3.683
+OMP as a function sigma: experiment 73/100, sigma_ind 7/10, MSE: 3.796
+OMP as a function sigma: experiment 73/100, sigma_ind 8/10, MSE: 3.753
+OMP as a function sigma: experiment 73/100, sigma_ind 9/10, MSE: 3.668
+OMP as a function sigma: experiment 73/100, sigma_ind 10/10, MSE: 3.708
+OMP as a function sigma: experiment 74/100, sigma_ind 1/10, MSE: 4.280
+OMP as a function sigma: experiment 74/100, sigma_ind 2/10, MSE: 3.946
+OMP as a function sigma: experiment 74/100, sigma_ind 3/10, MSE: 3.956
+OMP as a function sigma: experiment 74/100, sigma_ind 4/10, MSE: 3.895
+OMP as a function sigma: experiment 74/100, sigma_ind 5/10, MSE: 3.822
+OMP as a function sigma: experiment 74/100, sigma_ind 6/10, MSE: 3.740
+OMP as a function sigma: experiment 74/100, sigma_ind 7/10, MSE: 3.847
+OMP as a function sigma: experiment 74/100, sigma_ind 8/10, MSE: 3.813
+OMP as a function sigma: experiment 74/100, sigma_ind 9/10, MSE: 3.722
+OMP as a function sigma: experiment 74/100, sigma_ind 10/10, MSE: 3.760
+OMP as a function sigma: experiment 75/100, sigma_ind 1/10, MSE: 4.303
+OMP as a function sigma: experiment 75/100, sigma_ind 2/10, MSE: 3.963
+OMP as a function sigma: experiment 75/100, sigma_ind 3/10, MSE: 3.980
+OMP as a function sigma: experiment 75/100, sigma_ind 4/10, MSE: 3.928
+OMP as a function sigma: experiment 75/100, sigma_ind 5/10, MSE: 3.869
+OMP as a function sigma: experiment 75/100, sigma_ind 6/10, MSE: 3.787
+OMP as a function sigma: experiment 75/100, sigma_ind 7/10, MSE: 3.913
+OMP as a function sigma: experiment 75/100, sigma_ind 8/10, MSE: 3.873
+OMP as a function sigma: experiment 75/100, sigma_ind 9/10, MSE: 3.778
+OMP as a function sigma: experiment 75/100, sigma_ind 10/10, MSE: 3.813
+OMP as a function sigma: experiment 76/100, sigma_ind 1/10, MSE: 4.356
+OMP as a function sigma: experiment 76/100, sigma_ind 2/10, MSE: 4.003
+OMP as a function sigma: experiment 76/100, sigma_ind 3/10, MSE: 4.024
+OMP as a function sigma: experiment 76/100, sigma_ind 4/10, MSE: 3.967
+OMP as a function sigma: experiment 76/100, sigma_ind 5/10, MSE: 3.905
+OMP as a function sigma: experiment 76/100, sigma_ind 6/10, MSE: 3.820
+OMP as a function sigma: experiment 76/100, sigma_ind 7/10, MSE: 3.944
+OMP as a function sigma: experiment 76/100, sigma_ind 8/10, MSE: 3.903
+OMP as a function sigma: experiment 76/100, sigma_ind 9/10, MSE: 3.807
+OMP as a function sigma: experiment 76/100, sigma_ind 10/10, MSE: 3.841
+OMP as a function sigma: experiment 77/100, sigma_ind 1/10, MSE: 4.389
+OMP as a function sigma: experiment 77/100, sigma_ind 2/10, MSE: 4.039
+OMP as a function sigma: experiment 77/100, sigma_ind 3/10, MSE: 4.058
+OMP as a function sigma: experiment 77/100, sigma_ind 4/10, MSE: 4.042
+OMP as a function sigma: experiment 77/100, sigma_ind 5/10, MSE: 3.981
+OMP as a function sigma: experiment 77/100, sigma_ind 6/10, MSE: 3.891
+OMP as a function sigma: experiment 77/100, sigma_ind 7/10, MSE: 4.012
+OMP as a function sigma: experiment 77/100, sigma_ind 8/10, MSE: 3.968
+OMP as a function sigma: experiment 77/100, sigma_ind 9/10, MSE: 3.870
+OMP as a function sigma: experiment 77/100, sigma_ind 10/10, MSE: 3.902
+OMP as a function sigma: experiment 78/100, sigma_ind 1/10, MSE: 4.479
+OMP as a function sigma: experiment 78/100, sigma_ind 2/10, MSE: 4.100
+OMP as a function sigma: experiment 78/100, sigma_ind 3/10, MSE: 4.127
+OMP as a function sigma: experiment 78/100, sigma_ind 4/10, MSE: 4.098
+OMP as a function sigma: experiment 78/100, sigma_ind 5/10, MSE: 4.029
+OMP as a function sigma: experiment 78/100, sigma_ind 6/10, MSE: 3.934
+OMP as a function sigma: experiment 78/100, sigma_ind 7/10, MSE: 4.073
+OMP as a function sigma: experiment 78/100, sigma_ind 8/10, MSE: 4.024
+OMP as a function sigma: experiment 78/100, sigma_ind 9/10, MSE: 3.921
+OMP as a function sigma: experiment 78/100, sigma_ind 10/10, MSE: 3.949
+OMP as a function sigma: experiment 79/100, sigma_ind 1/10, MSE: 4.690
+OMP as a function sigma: experiment 79/100, sigma_ind 2/10, MSE: 4.240
+OMP as a function sigma: experiment 79/100, sigma_ind 3/10, MSE: 4.235
+OMP as a function sigma: experiment 79/100, sigma_ind 4/10, MSE: 4.186
+OMP as a function sigma: experiment 79/100, sigma_ind 5/10, MSE: 4.102
+OMP as a function sigma: experiment 79/100, sigma_ind 6/10, MSE: 4.005
+OMP as a function sigma: experiment 79/100, sigma_ind 7/10, MSE: 4.142
+OMP as a function sigma: experiment 79/100, sigma_ind 8/10, MSE: 4.106
+OMP as a function sigma: experiment 79/100, sigma_ind 9/10, MSE: 3.996
+OMP as a function sigma: experiment 79/100, sigma_ind 10/10, MSE: 4.019
+OMP as a function sigma: experiment 80/100, sigma_ind 1/10, MSE: 4.719
+OMP as a function sigma: experiment 80/100, sigma_ind 2/10, MSE: 4.268
+OMP as a function sigma: experiment 80/100, sigma_ind 3/10, MSE: 4.275
+OMP as a function sigma: experiment 80/100, sigma_ind 4/10, MSE: 4.221
+OMP as a function sigma: experiment 80/100, sigma_ind 5/10, MSE: 4.152
+OMP as a function sigma: experiment 80/100, sigma_ind 6/10, MSE: 4.070
+OMP as a function sigma: experiment 80/100, sigma_ind 7/10, MSE: 4.202
+OMP as a function sigma: experiment 80/100, sigma_ind 8/10, MSE: 4.161
+OMP as a function sigma: experiment 80/100, sigma_ind 9/10, MSE: 4.055
+OMP as a function sigma: experiment 80/100, sigma_ind 10/10, MSE: 4.083
+OMP as a function sigma: experiment 81/100, sigma_ind 1/10, MSE: 4.762
+OMP as a function sigma: experiment 81/100, sigma_ind 2/10, MSE: 4.305
+OMP as a function sigma: experiment 81/100, sigma_ind 3/10, MSE: 4.309
+OMP as a function sigma: experiment 81/100, sigma_ind 4/10, MSE: 4.267
+OMP as a function sigma: experiment 81/100, sigma_ind 5/10, MSE: 4.193
+OMP as a function sigma: experiment 81/100, sigma_ind 6/10, MSE: 4.125
+OMP as a function sigma: experiment 81/100, sigma_ind 7/10, MSE: 4.254
+OMP as a function sigma: experiment 81/100, sigma_ind 8/10, MSE: 4.211
+OMP as a function sigma: experiment 81/100, sigma_ind 9/10, MSE: 4.103
+OMP as a function sigma: experiment 81/100, sigma_ind 10/10, MSE: 4.129
+OMP as a function sigma: experiment 82/100, sigma_ind 1/10, MSE: 4.812
+OMP as a function sigma: experiment 82/100, sigma_ind 2/10, MSE: 4.353
+OMP as a function sigma: experiment 82/100, sigma_ind 3/10, MSE: 4.357
+OMP as a function sigma: experiment 82/100, sigma_ind 4/10, MSE: 4.314
+OMP as a function sigma: experiment 82/100, sigma_ind 5/10, MSE: 4.249
+OMP as a function sigma: experiment 82/100, sigma_ind 6/10, MSE: 4.182
+OMP as a function sigma: experiment 82/100, sigma_ind 7/10, MSE: 4.306
+OMP as a function sigma: experiment 82/100, sigma_ind 8/10, MSE: 4.260
+OMP as a function sigma: experiment 82/100, sigma_ind 9/10, MSE: 4.163
+OMP as a function sigma: experiment 82/100, sigma_ind 10/10, MSE: 4.187
+OMP as a function sigma: experiment 83/100, sigma_ind 1/10, MSE: 4.830
+OMP as a function sigma: experiment 83/100, sigma_ind 2/10, MSE: 4.371
+OMP as a function sigma: experiment 83/100, sigma_ind 3/10, MSE: 4.375
+OMP as a function sigma: experiment 83/100, sigma_ind 4/10, MSE: 4.332
+OMP as a function sigma: experiment 83/100, sigma_ind 5/10, MSE: 4.284
+OMP as a function sigma: experiment 83/100, sigma_ind 6/10, MSE: 4.230
+OMP as a function sigma: experiment 83/100, sigma_ind 7/10, MSE: 4.349
+OMP as a function sigma: experiment 83/100, sigma_ind 8/10, MSE: 4.298
+OMP as a function sigma: experiment 83/100, sigma_ind 9/10, MSE: 4.202
+OMP as a function sigma: experiment 83/100, sigma_ind 10/10, MSE: 4.224
+OMP as a function sigma: experiment 84/100, sigma_ind 1/10, MSE: 4.891
+OMP as a function sigma: experiment 84/100, sigma_ind 2/10, MSE: 4.415
+OMP as a function sigma: experiment 84/100, sigma_ind 3/10, MSE: 4.418
+OMP as a function sigma: experiment 84/100, sigma_ind 4/10, MSE: 4.370
+OMP as a function sigma: experiment 84/100, sigma_ind 5/10, MSE: 4.363
+OMP as a function sigma: experiment 84/100, sigma_ind 6/10, MSE: 4.362
+OMP as a function sigma: experiment 84/100, sigma_ind 7/10, MSE: 4.475
+OMP as a function sigma: experiment 84/100, sigma_ind 8/10, MSE: 4.407
+OMP as a function sigma: experiment 84/100, sigma_ind 9/10, MSE: 4.298
+OMP as a function sigma: experiment 84/100, sigma_ind 10/10, MSE: 4.319
+OMP as a function sigma: experiment 85/100, sigma_ind 1/10, MSE: 4.914
+OMP as a function sigma: experiment 85/100, sigma_ind 2/10, MSE: 4.437
+OMP as a function sigma: experiment 85/100, sigma_ind 3/10, MSE: 4.438
+OMP as a function sigma: experiment 85/100, sigma_ind 4/10, MSE: 4.412
+OMP as a function sigma: experiment 85/100, sigma_ind 5/10, MSE: 4.434
+OMP as a function sigma: experiment 85/100, sigma_ind 6/10, MSE: 4.436
+OMP as a function sigma: experiment 85/100, sigma_ind 7/10, MSE: 4.539
+OMP as a function sigma: experiment 85/100, sigma_ind 8/10, MSE: 4.465
+OMP as a function sigma: experiment 85/100, sigma_ind 9/10, MSE: 4.351
+OMP as a function sigma: experiment 85/100, sigma_ind 10/10, MSE: 4.368
+OMP as a function sigma: experiment 86/100, sigma_ind 1/10, MSE: 4.942
+OMP as a function sigma: experiment 86/100, sigma_ind 2/10, MSE: 4.468
+OMP as a function sigma: experiment 86/100, sigma_ind 3/10, MSE: 4.468
+OMP as a function sigma: experiment 86/100, sigma_ind 4/10, MSE: 4.464
+OMP as a function sigma: experiment 86/100, sigma_ind 5/10, MSE: 4.482
+OMP as a function sigma: experiment 86/100, sigma_ind 6/10, MSE: 4.482
+OMP as a function sigma: experiment 86/100, sigma_ind 7/10, MSE: 4.590
+OMP as a function sigma: experiment 86/100, sigma_ind 8/10, MSE: 4.549
+OMP as a function sigma: experiment 86/100, sigma_ind 9/10, MSE: 4.432
+OMP as a function sigma: experiment 86/100, sigma_ind 10/10, MSE: 4.445
+OMP as a function sigma: experiment 87/100, sigma_ind 1/10, MSE: 5.003
+OMP as a function sigma: experiment 87/100, sigma_ind 2/10, MSE: 4.522
+OMP as a function sigma: experiment 87/100, sigma_ind 3/10, MSE: 4.518
+OMP as a function sigma: experiment 87/100, sigma_ind 4/10, MSE: 4.511
+OMP as a function sigma: experiment 87/100, sigma_ind 5/10, MSE: 4.535
+OMP as a function sigma: experiment 87/100, sigma_ind 6/10, MSE: 4.533
+OMP as a function sigma: experiment 87/100, sigma_ind 7/10, MSE: 4.644
+OMP as a function sigma: experiment 87/100, sigma_ind 8/10, MSE: 4.605
+OMP as a function sigma: experiment 87/100, sigma_ind 9/10, MSE: 4.487
+OMP as a function sigma: experiment 87/100, sigma_ind 10/10, MSE: 4.499
+OMP as a function sigma: experiment 88/100, sigma_ind 1/10, MSE: 5.149
+OMP as a function sigma: experiment 88/100, sigma_ind 2/10, MSE: 4.582
+OMP as a function sigma: experiment 88/100, sigma_ind 3/10, MSE: 4.563
+OMP as a function sigma: experiment 88/100, sigma_ind 4/10, MSE: 4.549
+OMP as a function sigma: experiment 88/100, sigma_ind 5/10, MSE: 4.566
+OMP as a function sigma: experiment 88/100, sigma_ind 6/10, MSE: 4.569
+OMP as a function sigma: experiment 88/100, sigma_ind 7/10, MSE: 4.699
+OMP as a function sigma: experiment 88/100, sigma_ind 8/10, MSE: 4.653
+OMP as a function sigma: experiment 88/100, sigma_ind 9/10, MSE: 4.540
+OMP as a function sigma: experiment 88/100, sigma_ind 10/10, MSE: 4.546
+OMP as a function sigma: experiment 89/100, sigma_ind 1/10, MSE: 5.230
+OMP as a function sigma: experiment 89/100, sigma_ind 2/10, MSE: 4.634
+OMP as a function sigma: experiment 89/100, sigma_ind 3/10, MSE: 4.678
+OMP as a function sigma: experiment 89/100, sigma_ind 4/10, MSE: 4.638
+OMP as a function sigma: experiment 89/100, sigma_ind 5/10, MSE: 4.639
+OMP as a function sigma: experiment 89/100, sigma_ind 6/10, MSE: 4.627
+OMP as a function sigma: experiment 89/100, sigma_ind 7/10, MSE: 4.783
+OMP as a function sigma: experiment 89/100, sigma_ind 8/10, MSE: 4.728
+OMP as a function sigma: experiment 89/100, sigma_ind 9/10, MSE: 4.607
+OMP as a function sigma: experiment 89/100, sigma_ind 10/10, MSE: 4.607
+OMP as a function sigma: experiment 90/100, sigma_ind 1/10, MSE: 5.256
+OMP as a function sigma: experiment 90/100, sigma_ind 2/10, MSE: 4.654
+OMP as a function sigma: experiment 90/100, sigma_ind 3/10, MSE: 4.695
+OMP as a function sigma: experiment 90/100, sigma_ind 4/10, MSE: 4.653
+OMP as a function sigma: experiment 90/100, sigma_ind 5/10, MSE: 4.670
+OMP as a function sigma: experiment 90/100, sigma_ind 6/10, MSE: 4.655
+OMP as a function sigma: experiment 90/100, sigma_ind 7/10, MSE: 4.809
+OMP as a function sigma: experiment 90/100, sigma_ind 8/10, MSE: 4.751
+OMP as a function sigma: experiment 90/100, sigma_ind 9/10, MSE: 4.629
+OMP as a function sigma: experiment 90/100, sigma_ind 10/10, MSE: 4.629
+OMP as a function sigma: experiment 91/100, sigma_ind 1/10, MSE: 5.299
+OMP as a function sigma: experiment 91/100, sigma_ind 2/10, MSE: 4.693
+OMP as a function sigma: experiment 91/100, sigma_ind 3/10, MSE: 4.744
+OMP as a function sigma: experiment 91/100, sigma_ind 4/10, MSE: 4.708
+OMP as a function sigma: experiment 91/100, sigma_ind 5/10, MSE: 4.722
+OMP as a function sigma: experiment 91/100, sigma_ind 6/10, MSE: 4.705
+OMP as a function sigma: experiment 91/100, sigma_ind 7/10, MSE: 4.857
+OMP as a function sigma: experiment 91/100, sigma_ind 8/10, MSE: 4.799
+OMP as a function sigma: experiment 91/100, sigma_ind 9/10, MSE: 4.676
+OMP as a function sigma: experiment 91/100, sigma_ind 10/10, MSE: 4.675
+OMP as a function sigma: experiment 92/100, sigma_ind 1/10, MSE: 5.324
+OMP as a function sigma: experiment 92/100, sigma_ind 2/10, MSE: 4.715
+OMP as a function sigma: experiment 92/100, sigma_ind 3/10, MSE: 4.763
+OMP as a function sigma: experiment 92/100, sigma_ind 4/10, MSE: 4.725
+OMP as a function sigma: experiment 92/100, sigma_ind 5/10, MSE: 4.739
+OMP as a function sigma: experiment 92/100, sigma_ind 6/10, MSE: 4.721
+OMP as a function sigma: experiment 92/100, sigma_ind 7/10, MSE: 4.873
+OMP as a function sigma: experiment 92/100, sigma_ind 8/10, MSE: 4.819
+OMP as a function sigma: experiment 92/100, sigma_ind 9/10, MSE: 4.695
+OMP as a function sigma: experiment 92/100, sigma_ind 10/10, MSE: 4.703
+OMP as a function sigma: experiment 93/100, sigma_ind 1/10, MSE: 5.354
+OMP as a function sigma: experiment 93/100, sigma_ind 2/10, MSE: 4.742
+OMP as a function sigma: experiment 93/100, sigma_ind 3/10, MSE: 4.790
+OMP as a function sigma: experiment 93/100, sigma_ind 4/10, MSE: 4.773
+OMP as a function sigma: experiment 93/100, sigma_ind 5/10, MSE: 4.784
+OMP as a function sigma: experiment 93/100, sigma_ind 6/10, MSE: 4.763
+OMP as a function sigma: experiment 93/100, sigma_ind 7/10, MSE: 4.914
+OMP as a function sigma: experiment 93/100, sigma_ind 8/10, MSE: 4.874
+OMP as a function sigma: experiment 93/100, sigma_ind 9/10, MSE: 4.760
+OMP as a function sigma: experiment 93/100, sigma_ind 10/10, MSE: 4.764
+OMP as a function sigma: experiment 94/100, sigma_ind 1/10, MSE: 5.389
+OMP as a function sigma: experiment 94/100, sigma_ind 2/10, MSE: 4.783
+OMP as a function sigma: experiment 94/100, sigma_ind 3/10, MSE: 4.824
+OMP as a function sigma: experiment 94/100, sigma_ind 4/10, MSE: 4.802
+OMP as a function sigma: experiment 94/100, sigma_ind 5/10, MSE: 4.809
+OMP as a function sigma: experiment 94/100, sigma_ind 6/10, MSE: 4.839
+OMP as a function sigma: experiment 94/100, sigma_ind 7/10, MSE: 4.981
+OMP as a function sigma: experiment 94/100, sigma_ind 8/10, MSE: 4.972
+OMP as a function sigma: experiment 94/100, sigma_ind 9/10, MSE: 4.847
+OMP as a function sigma: experiment 94/100, sigma_ind 10/10, MSE: 4.842
+OMP as a function sigma: experiment 95/100, sigma_ind 1/10, MSE: 5.412
+OMP as a function sigma: experiment 95/100, sigma_ind 2/10, MSE: 4.806
+OMP as a function sigma: experiment 95/100, sigma_ind 3/10, MSE: 4.850
+OMP as a function sigma: experiment 95/100, sigma_ind 4/10, MSE: 4.839
+OMP as a function sigma: experiment 95/100, sigma_ind 5/10, MSE: 4.845
+OMP as a function sigma: experiment 95/100, sigma_ind 6/10, MSE: 4.874
+OMP as a function sigma: experiment 95/100, sigma_ind 7/10, MSE: 5.032
+OMP as a function sigma: experiment 95/100, sigma_ind 8/10, MSE: 5.021
+OMP as a function sigma: experiment 95/100, sigma_ind 9/10, MSE: 4.894
+OMP as a function sigma: experiment 95/100, sigma_ind 10/10, MSE: 4.888
+OMP as a function sigma: experiment 96/100, sigma_ind 1/10, MSE: 5.432
+OMP as a function sigma: experiment 96/100, sigma_ind 2/10, MSE: 4.834
+OMP as a function sigma: experiment 96/100, sigma_ind 3/10, MSE: 4.875
+OMP as a function sigma: experiment 96/100, sigma_ind 4/10, MSE: 4.862
+OMP as a function sigma: experiment 96/100, sigma_ind 5/10, MSE: 4.866
+OMP as a function sigma: experiment 96/100, sigma_ind 6/10, MSE: 4.901
+OMP as a function sigma: experiment 96/100, sigma_ind 7/10, MSE: 5.057
+OMP as a function sigma: experiment 96/100, sigma_ind 8/10, MSE: 5.045
+OMP as a function sigma: experiment 96/100, sigma_ind 9/10, MSE: 4.917
+OMP as a function sigma: experiment 96/100, sigma_ind 10/10, MSE: 4.910
+OMP as a function sigma: experiment 97/100, sigma_ind 1/10, MSE: 5.518
+OMP as a function sigma: experiment 97/100, sigma_ind 2/10, MSE: 4.893
+OMP as a function sigma: experiment 97/100, sigma_ind 3/10, MSE: 4.944
+OMP as a function sigma: experiment 97/100, sigma_ind 4/10, MSE: 4.906
+OMP as a function sigma: experiment 97/100, sigma_ind 5/10, MSE: 4.907
+OMP as a function sigma: experiment 97/100, sigma_ind 6/10, MSE: 4.938
+OMP as a function sigma: experiment 97/100, sigma_ind 7/10, MSE: 5.092
+OMP as a function sigma: experiment 97/100, sigma_ind 8/10, MSE: 5.078
+OMP as a function sigma: experiment 97/100, sigma_ind 9/10, MSE: 4.949
+OMP as a function sigma: experiment 97/100, sigma_ind 10/10, MSE: 4.988
+OMP as a function sigma: experiment 98/100, sigma_ind 1/10, MSE: 5.555
+OMP as a function sigma: experiment 98/100, sigma_ind 2/10, MSE: 4.919
+OMP as a function sigma: experiment 98/100, sigma_ind 3/10, MSE: 4.975
+OMP as a function sigma: experiment 98/100, sigma_ind 4/10, MSE: 4.932
+OMP as a function sigma: experiment 98/100, sigma_ind 5/10, MSE: 4.934
+OMP as a function sigma: experiment 98/100, sigma_ind 6/10, MSE: 4.978
+OMP as a function sigma: experiment 98/100, sigma_ind 7/10, MSE: 5.128
+OMP as a function sigma: experiment 98/100, sigma_ind 8/10, MSE: 5.112
+OMP as a function sigma: experiment 98/100, sigma_ind 9/10, MSE: 4.981
+OMP as a function sigma: experiment 98/100, sigma_ind 10/10, MSE: 5.029
+OMP as a function sigma: experiment 99/100, sigma_ind 1/10, MSE: 5.581
+OMP as a function sigma: experiment 99/100, sigma_ind 2/10, MSE: 5.116
+OMP as a function sigma: experiment 99/100, sigma_ind 3/10, MSE: 5.131
+OMP as a function sigma: experiment 99/100, sigma_ind 4/10, MSE: 5.046
+OMP as a function sigma: experiment 99/100, sigma_ind 5/10, MSE: 5.030
+OMP as a function sigma: experiment 99/100, sigma_ind 6/10, MSE: 5.055
+OMP as a function sigma: experiment 99/100, sigma_ind 7/10, MSE: 5.233
+OMP as a function sigma: experiment 99/100, sigma_ind 8/10, MSE: 5.202
+OMP as a function sigma: experiment 99/100, sigma_ind 9/10, MSE: 5.060
+OMP as a function sigma: experiment 99/100, sigma_ind 10/10, MSE: 5.109
+OMP as a function sigma: experiment 100/100, sigma_ind 1/10, MSE: 5.619
+OMP as a function sigma: experiment 100/100, sigma_ind 2/10, MSE: 5.146
+OMP as a function sigma: experiment 100/100, sigma_ind 3/10, MSE: 5.167
+OMP as a function sigma: experiment 100/100, sigma_ind 4/10, MSE: 5.099
+OMP as a function sigma: experiment 100/100, sigma_ind 5/10, MSE: 5.106
+OMP as a function sigma: experiment 100/100, sigma_ind 6/10, MSE: 5.117
+OMP as a function sigma: experiment 100/100, sigma_ind 7/10, MSE: 5.299
+OMP as a function sigma: experiment 100/100, sigma_ind 8/10, MSE: 5.268
+OMP as a function sigma: experiment 100/100, sigma_ind 9/10, MSE: 5.119
+OMP as a function sigma: experiment 100/100, sigma_ind 10/10, MSE: 5.163
+
+Process finished with exit code 0
